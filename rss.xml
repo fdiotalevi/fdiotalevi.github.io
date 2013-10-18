@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+      <title>diotalevi.com</title>
+      <description></description>
+      <link>http://www.diotalevi.com</link>
+      <copyright>Copyright 2007-2013 by Filippo Diotalevi</copyright>
+        <item>
+            <title>(Review) Code, by Charles Petzold</title>
+            <pubDate>Thu, 03 Jan 2013 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;(Review) Code, by Charles Petzold&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2013-01-03 12:00:00&quot;&gt;3rd January 2013&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2013-01-03 12:00:00&quot;&gt;3rd January 2013&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;table&gt;
+	&lt;tr&gt;
+	&lt;td width=&quot;460&quot;&gt;
+	&lt;p&gt;
+	I don't remember where I got the suggestion to read this book; it must be something related to my quest to find books that talks about the foundations of technology, rather than about the latest and greatest tool. Anyway, somewhere I found a link to this nice little book, and I'm glad I did.&lt;/p&gt;
+	&lt;/td&gt;
+	&lt;td&gt;
+	&lt;img src=&quot;http://www.charlespetzold.com/code/code.jpg&quot; width=&quot;140&quot; height=&quot;200&quot;&gt;
+	&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/table&gt;
+	&lt;p&gt;
+	You can think about &lt;a href=&quot;http://www.amazon.co.uk/gp/product/0735611319/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=0735611319&amp;linkCode=as2&amp;tag=diotalevicom-21&quot;&gt;Code: The Hidden Language of Computer Hardware and Software&lt;/a&gt;&lt;img src=&quot;http://www.assoc-amazon.co.uk/e/ir?t=diotalevicom-21&amp;l=as2&amp;o=2&amp;a=0735611319&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt; as an Introduction to Electronic university course, given by a professor that actually cares about his students. Weird, I know.
+	&lt;/p&gt;
+	&lt;!--more--&gt;
+	&lt;p&gt;
+	The book is actually much more than that. Its trajectory goes through two thousands years of discovers, starting from the concept of numbers to Object Oriented Programming; explaining, in the process, binary numbers, relays, logic gates, transistors, integrated circuits, Intel 8080 and Motorola 6800, assembly language and operating systems. Everything is plain and simple English, with a surprising attention to details.
+	&lt;/p&gt;
+	&lt;p&gt;
+	The book is so simple, and convincing, you'll actually consider (for a short while) building your own adding machine, or going back to Assembly to code your next toy project. It is seriously that good!&lt;/p&gt;
+	&lt;p&gt;
+	&lt;/p&gt;
+	&lt;p&gt;I see only a couple of shortcomings in this book: the first, is that it feels, and is, a book written in the twentieth century. So many things happened in the past twelve years which are not reflected in here. Second, it's mainly a hardware book; it talks, in the last few chapters, about programming languages and operating system, but it's only a very brief overview.&lt;/p&gt;
+	&lt;p&gt;
+	So now, after enjoying Charles Petzold's Code, the question is: is there an equally good book about the story of operating systems or programming languages? For any suggestion, please &lt;a href=&quot;https://twitter.com/fdiotalevi&quot;&gt;give me a shout on Twitter&lt;/a&gt;.
+&lt;/article&gt;</description>
+          <link>http://www.diotalevi.com/2013/01/03/Review_Code_By_Charles_Petzold/</link>
+          <guid>http://www.diotalevi.com/2013/01/03/Review_Code_By_Charles_Petzold/</guid>
+        </item>
+        <item>
+            <title>Strata London Notes</title>
+            <pubDate>Tue, 02 Oct 2012 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Strata London Notes&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2012-10-02 12:00:00&quot;&gt;2nd October 2012&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2012-10-02 12:00:00&quot;&gt;2nd October 2012&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;
+	A few useful (mostly for myself) notes after &lt;a href='http://strataconf.com/strataeu/'&gt;Strata London 2012&lt;/a&gt;.&lt;br/&gt;
+	As other people there noticed, quite a disappointing conference. Not just for the appalling location (note for organizers: hosting conferences in hotels is almost always a bad idea), but because all the topics of the conference felt, at least, three years old. Some of the things missing:
+	&lt;ul&gt;
+	&lt;li&gt;Graph databases, not a single mention&lt;/li&gt;
+	&lt;li&gt;Real time analytics and machine learning: too little. Three related talks, no mentions to Storm and alternatives&lt;/li&gt;
+	&lt;li&gt;No talks on R and related technologies?&lt;/li&gt;
+	&lt;li&gt;Very little on data visualization (mostly driven by The Guardian and Tableau)&lt;/li&gt;
+	&lt;/ul&gt;
+	On the other side, too much of...
+	&lt;ul&gt;
+	&lt;li&gt;Hadoop everywhere! I do understand many of the sponsors were Hadoop &quot;resellers&quot;, but so many talks?&lt;/li&gt;
+	&lt;li&gt;Non technical talks.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+	Rant&lt;br/&gt;
+	I don't really know who started this trend of having non-technical, &quot;cultural&quot;, &quot;i will surprise you with my precious insights&quot; kind of talks at technical conferences. I admit that at times it may be fun, even interesting, like when Bob Martin goes into details explaining how black holes work. However, isn't it boring when you see that happening at every single conference?&lt;br/&gt;
+	Do we really need three talks talking about Turing, Babbage and co, and what Big Data was like 50 years ago?
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+	After the moanings, a list of the few discoveries that are worth a second look
+	&lt;!--more--&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;Open Data and Open Government in UK&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+	UK seems to be quite serious about opening up their data. Some examples:&lt;br/&gt;
+	&lt;a href=&quot;http://www.legislation.gov.uk/&quot;&gt;Legislation.gov.uk&lt;/a&gt; offers the UK legislation, accessible via API and open to 3rd party applications&lt;br&gt;
+	&lt;a href=&quot;http://www.theodi.org/&quot;&gt;The Open Data Institute&lt;/a&gt; is the place to start to learn about the government Open Data policy
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;Pro Bono IT and Big Data&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+	I have been looking for years (since I learnt about the inspiring &lt;a href=&quot;http://java.net/projects/jug-avis&quot;&gt;JugAvis&lt;/a&gt; project) to find opportunities to connect charities and NGO with developers wanting to work pro-bono. Now &lt;a href=&quot;http://datakind.org/&quot;&gt;DataKind&lt;/a&gt; proposes to do that. &quot;Using data in the service of humanity&quot; is their tagline. It's a US no-profit, but hopefully they'll expand their activities to UK soon. 
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;I learnt that Google is producing tools for data analysis quicker than I can learn about&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+	In no particular order
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://code.google.com/p/google-refine/&quot;&gt;Google Refine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.google.com/fusiontables/Home/&quot;&gt;Google Fusion Tables&lt;a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://developers.google.com/bigquery/&quot;&gt;Google BigQuery&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;There's quite a lot of research going on around online (streaming) algorithms&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+	... and it's not only limited to &quot;summarizing&quot; algorithms, but also to online machine learning.&lt;br/&gt;
+	&lt;a href=&quot;https://github.com/clearspring/stream-lib&quot;&gt;Stream Lib&lt;/a&gt; implements some of them&lt;br/&gt;
+	&lt;a href=&quot;http://www.slideshare.net/mobile/tdunning/customer-analysisatscalestrata10022012&quot;&gt;Ted Dunning shares the details&lt;/a&gt; of a fast, large scale, k-means analysis
+	&lt;/p&gt;
+&lt;/article&gt;</description>
+          <link>http://www.diotalevi.com/2012/10/02/Strata_Notes/</link>
+          <guid>http://www.diotalevi.com/2012/10/02/Strata_Notes/</guid>
+        </item>
+        <item>
+            <title>London Population Over the Years</title>
+            <pubDate>Mon, 06 Aug 2012 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;London Population Over the Years&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2012-08-06 12:00:00&quot;&gt;6th August 2012&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2012-08-06 12:00:00&quot;&gt;6th August 2012&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;
+	  After a few weeks of intense work sharpening my &lt;a href='http://www.r-project.org/'&gt;R&lt;/a&gt; skills, I figured it was about time to start pushing out some code. One of my favourite blog is the awesome &lt;a href='http://spatialanalysis.co.uk/'&gt;Spatial Analysis&lt;/a&gt;, so why not starting with some maps?
+	&lt;img src=&quot;http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1801.png&quot; width=&quot;700&quot;&gt;  
+	&lt;/p&gt;
+	&lt;p&gt;
+	The maps displayed in this blog post are the combination of two distinct datasets:
+	&lt;ul&gt;
+	&lt;li&gt;The UK &quot;Boundary Line&quot; dataset, downloadable (after a tricky and tedious procedure) from &lt;a href='https://www.ordnancesurvey.co.uk/opendatadownload/products.html'&gt;this website&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;The Historic Census dataset downloadable from the &lt;a href='http://data.london.gov.uk/datastore/package/historic-census-population'&gt;London Datastore&lt;/a&gt; website&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;!--more--&gt;
+	&lt;p&gt;
+	The first dataset (Boundary Line) contains the polygons (&lt;i&gt;shapelines&lt;/i&gt;) defining British counties, districts, cities, ... I used &lt;a href='http://ggplot2.org/'&gt;ggplot2&lt;/a&gt; to display the shapelines (mostly because I wanted to learnt it better). &lt;br&gt;
+	The second dataset contains the population in each London borough from 1801 to 2001. Merging the two dataset is immediate. &lt;a href='https://github.com/fdiotalevi/london-population'&gt;The full code is on Github&lt;/a&gt;, and 36 lines of codes are all you need to load, merge and display the data.
+	&lt;/p&gt;
+	&lt;p&gt; 
+	The different images show, as expected, how the population has progressively increased in number, and moved away from the central boroughs (Westminster, City of London in particular).
+	&lt;br&gt;
+	  &lt;img src=&quot;http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1851.png&quot; width=&quot;700&quot;&gt;
+	  &lt;img src=&quot;http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1901.png&quot; width=&quot;700&quot;&gt;
+	  &lt;img src=&quot;http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1931.png&quot; width=&quot;700&quot;&gt;
+	&lt;br&gt;  
+	  After the second world war, there's the most noticeable increase in population of the external boroughs; Barnet, Croydon, Ealing are rapidly moving from average-low inhabited boroughs to some of the most populated; all the other external boroughs show similar increases.
+	  
+	  &lt;img src=&quot;http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1971.png&quot; width=&quot;700&quot;&gt;
+	  &lt;br&gt;  
+	  The last 30 years of the 20th century don't show a significant change in how the population is distributed.
+	  &lt;img src=&quot;http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-2001.png&quot; width=&quot;700&quot;&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+	From a visualization point of view, working with R allows to create maps easily, and with a few lines of code. There are definitely a few things I'd like to improve, like the &lt;i&gt;legend&lt;/i&gt; (which sometimes shows numbers in scientific notation, sometimes not, without an apparent reason), and the placement of borough names which sometimes make them difficult to read.&lt;br/&gt;
+	Unfortunately the general lack of documentation on R and its packages makes this fine-tuning procedure very hard and time consuming, but it has been surprisingly easy and quick to obtain some decent maps.
+
+	&lt;/p&gt;
+&lt;/article&gt;</description>
+          <link>http://www.diotalevi.com/2012/08/06/London_Population_Over_The_Years/</link>
+          <guid>http://www.diotalevi.com/2012/08/06/London_Population_Over_The_Years/</guid>
+        </item>
+        <item>
+            <title>HttpCheck in node.js</title>
+            <pubDate>Fri, 09 Sep 2011 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;HttpCheck in node.js&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-09-09 12:00:00&quot;&gt;9th September 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-09-09 12:00:00&quot;&gt;9th September 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+  &lt;p&gt;
+  One of the most useful tools when you develop mobile portals is a simple web page to check the headers your browser is sending to the server. Which User-Agent? Accept-Language? Accept-Encoding? Accept-Charset?
+  &lt;/p&gt;
+  &lt;p&gt;
+  A good opportunity to write a tiny node.js application (with just a bit of &lt;a href='http://documentcloud.github.com/underscore/'&gt;Underscore&lt;/a&gt; magic).
+  &lt;/p&gt;
+  &lt;!--more--&gt;
+  &lt;pre class=&quot;prettyprint language-js code&quot;&gt;
+  var http = require('http'), 
+      _ = require('./underscore'),
+      port = process.env.PORT || 3000;
+
+  var FullResponse = function(req) {
+
+    var blanks = &quot;                                   &quot;;
+    var fields = {&quot;url&quot;: req.url, &quot;method&quot;: req.method, &quot;httpVersion&quot;: req.httpVersion, 
+                &quot;headers&quot;: req.headers, &quot;data&quot;: &quot;&quot;};  
+      
+    var format = function(key, value, indent) {    
+      if (_.isString(value))
+        var valuePart = value+&quot;\n&quot;;
+      else
+        var valuePart = &quot;\n&quot; + _.reduce(_.keys(value), function(sum, it) {  
+          return sum + format(it, value[it], indent+1);  }, 
+          &quot;&quot;);
+            
+      return blanks.substring(0, indent * 2) + key+&quot;: &quot; + valuePart;
+    }        
+    
+    this.addData = function(data) {
+      fields[&quot;data&quot;] += data.toString(&quot;utf8&quot;);
+    }
+    
+    this.printOut = function() {        
+      return format(&quot;response&quot;, fields, 0);
+    }
+    
+  }
+
+  http.createServer(function (req, res) {
+    res.writeHead(200, {'Content-Type': 'text/plain'});
+    var response = new FullResponse(req);  
+    req.on(&quot;data&quot;, function(it) {
+      response.addData(it);
+    });  
+    req.on(&quot;end&quot;, function() {
+      res.end(response.printOut());  
+    });  
+  }).listen(port);
+  console.log('Server running at port '+port);
+
+  &lt;/pre&gt;
+  &lt;p&gt;
+  Full source code on &lt;a href='https://github.com/fdiotalevi/httpcheck'&gt;Github&lt;/a&gt;, the application is running at &lt;a href='http://httpcheck.herokuapp.com'&gt;http://httpcheck.herokuapp.com&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/article&gt;</description>
+          <link>http://www.diotalevi.com/2011/09/09/HttpCheck_in_node/</link>
+          <guid>http://www.diotalevi.com/2011/09/09/HttpCheck_in_node/</guid>
+        </item>
+        <item>
+            <title>Trying node.js</title>
+            <pubDate>Wed, 04 May 2011 12:00:00 +0100</pubDate>
+          <description>title: Trying node.js 
+author: Filippo Diotalevi
+date: 2011/05/04
+&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Trying node.js&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-05-04 12:00:00&quot;&gt;4th May 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-05-04 12:00:00&quot;&gt;4th May 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;
+	&lt;em&gt;
+	After a few months of Rails development, I start to really enjoy working with dynamic languages. Coming from a Java background, it takes some time to get used to work without a proper IDE with code completion and good refactoring tools; however, after a while the development experience becomes more natural, especially if you pair a dynamic language with a schema free database like &lt;a href=&quot;http://mongodb.org&quot;&gt;MongoDB&lt;/a&gt;.
+	&lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+	I was really curious to try some other (dynamic) way to develop web applications, so I decided to build a website to sell my old furniture, and I picked &lt;a href='http://nodejs.org'&gt;node.js&lt;/a&gt; because... well, a lot of people is talking about it. I understand that's not a sensible reason to choose a technology but hey, I just wanted to sell a few things. &lt;a href='http://garagesale.diotalevi.com'&gt;Have a look at the result&lt;/a&gt;, if you are interested (I still have a good wardrobe for sale, anyway).
+	&lt;/p&gt;
+	&lt;p&gt;
+	At the end of the development, these are my notes/impressions.
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;Overall development experience&lt;/b&gt;&lt;br/&gt;
+	Developing the website has taken me about 12 hours. I estimate I spent roughly 30% of the time to google for information, and 20% to integrate the design. So development is reasonably quick.&lt;br/&gt;
+	Programming a web application in a event-driven fashion (the node.js way) feels a bit weird, but it's not a problem for simple webapps. I can imagine that if you need to write some complicate business logic that might be quite challenging though.
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;Node.js and Express&lt;/b&gt;&lt;br/&gt;
+	&lt;!--more--&gt;
+	Node.js is a low-level framework, so if you want to develop a web application you better use &lt;a href=&quot;http://expressjs.com&quot;&gt;Express&lt;/a&gt;. Express is a minimal web framework, similar to &lt;a href=&quot;http://www.sinatrarb.com/&quot;&gt;Sinatra&lt;/a&gt;. It's well documented in the website, and very quick to get started.
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;Jade&lt;/b&gt;&lt;br/&gt;
+	Since the &lt;a href=&quot;http://expressjs.com/guide.html#template-engines&quot;&gt;Express documentation&lt;/a&gt; states that &lt;a href=&quot;http://jade-lang.com/&quot;&gt;Jade&lt;/a&gt; is Haml successor, I figured that was the right choice. Wrong. For two reasons.&lt;br/&gt;
+	&lt;em&gt;First&lt;/em&gt;, jade is basically undocumented. The &lt;a href=&quot;https://github.com/visionmedia/jade&quot;&gt;Github page&lt;/a&gt; gives you some hints, but really not enough to write even a simple web application. Pro tip: the source code contains a &lt;em&gt;examples/&lt;/em&gt; folder.&lt;br/&gt;
+	&lt;em&gt;Second&lt;/em&gt; reason: jade is very similar to Haml. Except that it is different. It feels similar, but some small details are different, so that (if you happen to work also with Haml like I'm doing) you keep making annoying errors.&lt;br/&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;b&gt;MongoDB integration&lt;/b&gt;&lt;br/&gt;
+	I used &lt;a href=&quot;https://github.com/christkv/node-mongodb-native&quot;&gt;node-mongodb-native &lt;/a&gt;and
+	&lt;a href=&quot;https://github.com/guileen/node-mongoskin&quot;&gt;mongoskin&lt;/a&gt; to integrate the web application with MongoDB. Documentation here is still very minimal, and you have to figure out things via trial and error. But anyway, every MongoDB driver works basically in the same way.
+	&lt;/p&gt;
+	&lt;b&gt;Deployment on Duostack&lt;/b&gt;&lt;br/&gt;
+	One of the reason I chose the Node.js+MongoDB stack is to be able to deploy the application, for free, on &lt;a href=&quot;http://duostack.com&quot;&gt;Duostack&lt;/a&gt;. Duostack is the Heroku for Node.js, with some nice additions like the availability of MySQL, MongoDB and Redis to store your data. And a very reasonable free plan that allows to install your application with a 128MB database.&lt;br/&gt;
+	Duostack works exactly like Heroku; you push your code in production via &lt;em&gt;git&lt;/em&gt;, and everything works. The application feels actually a bit slower than some of my applications deployed on Heroku, but I haven't really done any benchmark. It's free! so I can't complain.
+	&lt;/p&gt;
+	&lt;p&gt;
+	&lt;br&gt;
+	&lt;b&gt;In summary&lt;/b&gt;&lt;br/&gt;
+	Node.js and Express are enjoyable technologies to use, but really in their infancy. They're also in constant development, and incompatibilities are likely to be introduced in new versions. Their documentation is quite good, but the whole set of frameworks/technologies that you need to use to implement a full web application (templating, authentication, authorisation) is not. So expect to spend a lot of time to google for solutions, and to ask/answer questions in mailing lists and &lt;a href='http://stackoverflow.com/questions/tagged/node.js'&gt;stackoverflow&lt;/a&gt;.&lt;br/&gt;
+	Also, I'm not convinced the event-driven approach can cope well with websites with complex business logic; it would help to have some books or at least a best practice collection to refer in this case, but I couldn't find anything.&lt;br/&gt;
+	On the other side, if you need to implement a network server, node.js is certainly worth having a good look.
+	&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2011/05/04/node_js/</link>
+          <guid>http://www.diotalevi.com/2011/05/04/node_js/</guid>
+        </item>
+        <item>
+            <title>Week 5</title>
+            <pubDate>Sun, 06 Feb 2011 12:00:00 +0000</pubDate>
+          <description>title: Week 5
+author: Filippo Diotalevi
+date: 2011/02/06
+&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Week 5&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-02-06 12:00:00&quot;&gt;6th February 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-02-06 12:00:00&quot;&gt;6th February 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;em&gt;My bi-weekly update... a few interesting things happened&lt;/em&gt;.&lt;/p&gt;
+
+	&lt;p&gt;Unexpectedly, &lt;b&gt;I started working on my first iPhone/iPad application&lt;/b&gt;. That's something I didn't foresee because my objective-C skills are virtually not-existent, but my friends at &lt;a href=&quot;http://www.thedusseldorfexperiment.com/&quot;&gt;The Dusseldorf Experiment&lt;/a&gt; are helping me out. My goal is to create a mobile application for &lt;a href=&quot;http://trunk.ly&quot;&gt;Trunk.ly&lt;/a&gt;, the new bookmarking service I use. The iPhone version is ready (albeit minimal), I hope to be able to start the iPad one this week. And no, I don't want to become an objective-C developer; I already have my problems switching daily between Ruby and Java.&lt;/p&gt;
+
+	&lt;p&gt;&lt;b&gt;Last weekend I attended the &lt;a href=&quot;http://brussels.startupweekend.org&quot;&gt;startup weekend in Bruxelles&lt;/a&gt;&lt;/b&gt;; like &lt;a href=&quot;/2010/09/15/austin-startup-weekend-my-review/&quot;&gt;my previous experience in Austin&lt;/a&gt; I enjoyed the event so much, but this time our team also went on to win the price for the geekiest project. &lt;a href=&quot;http://dl.dropbox.com/u/1964762/HealthScreenflow.mov&quot;&gt;That's a screencast of the demo&lt;/a&gt; if you are interested.
+	&lt;/p&gt; 
+
+	&lt;p&gt;
+	&lt;b&gt;Unfortunately I had to miss &lt;a href=&quot;http://fosdem.org/2011/&quot;&gt;Fosdem&lt;/a&gt; this year&lt;/b&gt;; I was planning to go on Sunday, but a bad cold convinced me to stay home.
+	&lt;/p&gt;
+
+	&lt;p&gt;
+	&lt;b&gt;I read &lt;a href=&quot;http://www.startupbook.net/&quot;&gt;Start Small, Stay Small&lt;/a&gt;&lt;/b&gt; by Rob Walling. I have mixed feeling about this book: while it offers a lot of useful suggestions, if you (like me) have already read all the possible books about SEOs, bootstrapping startups, lean startups and outsourcing to Virtual Assistants, this book won't tell you anything more. So, it's a useful summary, but nothing really new.
+	&lt;/p&gt;
+
+	&lt;p&gt;
+	&lt;b&gt;Usual contracting work going on&lt;/b&gt;, nothing new on that side. The three contracts I have are more than enough to keep me very busy right now, so I don't see any news in this area at least until April.
+	&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2011/02/06/week-5/</link>
+          <guid>http://www.diotalevi.com/2011/02/06/week-5/</guid>
+        </item>
+        <item>
+            <title>Week 3</title>
+            <pubDate>Mon, 24 Jan 2011 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Week 3&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-01-24 12:00:00&quot;&gt;24th January 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-01-24 12:00:00&quot;&gt;24th January 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;em&gt;Two weeks worth of updates today.&lt;/em&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Three consulting gigs &lt;/strong&gt;ongoing: Ruby on Rails work, an architecture/performance review and finally some work on a OSGi SaaS platform. Definitely busy times!&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;I started to collect &lt;/strong&gt;some Ruby and Rails code snippets (and some wiki pages of explanation) at &lt;a href=&quot;https://github.com/fdiotalevi/rails-dump&quot;&gt;https://github.com/fdiotalevi/rails-dump﻿&lt;/a&gt;. Nothing polished, just some code to copy in my next project, or step-by-step tutorials to remember certain solutions. Some things I posted there:&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;an &lt;a href=&quot;https://github.com/fdiotalevi/rails-dump/tree/master/better-layout&quot;&gt;improved standard layout&lt;/a&gt; for Rails projects (the default one is ugly)&lt;/li&gt;
+	&lt;li&gt;a reusable &lt;a href=&quot;https://github.com/fdiotalevi/rails-dump/tree/master/wizard&quot;&gt;module to create wizard controllers&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;how to &lt;a href=&quot;https://github.com/fdiotalevi/rails-dump/wiki/Devise-on-mongoid&quot;&gt;setup Devise using mongoid as ORM&lt;/a&gt; (and MongoDB, of course)&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;&lt;strong&gt;For my traditional Sunday project, &lt;/strong&gt;I decided to write a minimal blog engine in Ruby. I'm definitely sick of the terrible service offered by my current hosting provider (&lt;a href=&quot;http://servage.net&quot;&gt;Servage&lt;/a&gt;), and have always played with the idea of writing something simple I can customise to my needs.&lt;/p&gt;
+	&lt;p&gt;After getting the final inspiration looking at &lt;a href=&quot;https://github.com/cloudhead/toto&quot;&gt;Toto&lt;/a&gt; and &lt;a href=&quot;https://github.com/karmi/marley&quot;&gt;Marley&lt;/a&gt;, I wrote a minimal &lt;a href=&quot;http://www.sinatrarb.com/&quot;&gt;Sinatra&lt;/a&gt;-based (and Git backed) blog engine in 4 hours last Sunday. Deployed on Heroku, it's a 0-cost solution (because you can deploy it using the free plan), runs on a fast server and it's a completely customisable blog. I need some more time to add a couple of other features (in particular, a RSS feed), but it's already deployed &lt;a href=&quot;http://fdiotalevi.heroku.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Finally, I started to define my idea for the Bruxelles Startup Weekend. &lt;/strong&gt;It's one of my many ideas to improve the way people travel... more details in a few days.&lt;/p&gt;
+&lt;/div&gt;	</description>
+          <link>http://www.diotalevi.com/2011/01/24/week-3/</link>
+          <guid>http://www.diotalevi.com/2011/01/24/week-3/</guid>
+        </item>
+        <item>
+            <title>Innovation and Large Companies</title>
+            <pubDate>Mon, 17 Jan 2011 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Innovation and Large Companies&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-01-17 12:00:00&quot;&gt;17th January 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-01-17 12:00:00&quot;&gt;17th January 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;I had a few conversations lately about the difficulties of producing innovation in large companies (telco operators, in the specific, but that equally applies to many other businesses).&lt;/p&gt;
+	&lt;p&gt;That reminded an excellent article Robert Scoble wrote a couple of months ago, &lt;a href=&quot;http://scobleizer.com/2010/11/12/why-google-cant-build-instagram/&quot;&gt;Why Google can't build Instagram&lt;/a&gt;; that is, the main reasons why big companies can't innovate are&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;they can't afford to release early (minimal) versions of the product and iterate; people expects finished, quality products from big established companies&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul&gt;
+	&lt;li&gt;their products need to scale from day 1; while a startup normally have a few hundred users in its early days, a new product launched (even in beta or labs) by Google immediately has millions of users. Therefore more people or entire teams need to be involved to make sure the new service will properly scale&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul&gt;
+	&lt;li&gt;in big companies there's no complete freedom, even when it comes to technical choices. You are supposed to use one of the approved technologies, for instance; and you aren't suppose to use or integrate with competing services &lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;&lt;/p&gt;
+	&lt;p&gt;So what's the solution? Are a vast majority of big companies doomed to fail within ten years for lack of innovation?&lt;/p&gt;&lt;!--more--&gt;
+	&lt;p&gt;Robert proposes three ideas: innovate by acquisition, work on open source projects and keep teams small. I agree with the first proposal, but I think there is actually a better method large corporates can use to innovate.&lt;/p&gt;
+	&lt;p&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;a href=&quot;http://ycombinator.com/&quot;&gt;YCombinator&lt;/a&gt;, &lt;a href=&quot;http://www.techstars.org/&quot;&gt;TechStars&lt;/a&gt;, &lt;a href=&quot;http://www.capitalfactory.com/&quot;&gt;CapitalFactory&lt;/a&gt; and other similar programs have demonstrated in the past five years that there's a systematic and repeatable model to create innovation. The rules are simple (but correct execution is, as usual, the most important thing)&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;select the best aspiring entrepreneurs worldwide&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul&gt;
+	&lt;li&gt;constant mentorship&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul&gt;
+	&lt;li&gt;provide minimal funding to entrepreneurs to create &lt;strong&gt;their&lt;/strong&gt; startups (not to work on &lt;strong&gt;your &lt;/strong&gt;company and &lt;strong&gt;your &lt;/strong&gt;ideas)&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul&gt;
+	&lt;li&gt;help entrepreneurs to manage company financials, funding and growth (but &lt;strong&gt;without&lt;/strong&gt; interfering too much with their business)&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;&lt;/p&gt;
+	&lt;p&gt;What's the budget to create such a program? Less than the money spent in any mid-sized project in any big corporate. You can probably go a long way with 1 million $ (or euros) per year, and roll out a great program for less than two.&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2011/01/17/innovation-and-large-companies/</link>
+          <guid>http://www.diotalevi.com/2011/01/17/innovation-and-large-companies/</guid>
+        </item>
+        <item>
+            <title>Week 1</title>
+            <pubDate>Sat, 08 Jan 2011 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Week 1&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-01-08 12:00:00&quot;&gt;8th January 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-01-08 12:00:00&quot;&gt;8th January 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;em&gt;Week 1 of 2010 has been particularly eventful. It seems like everybody woke up after the Christmas break and decided to contact me!&lt;/em&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;First of all, I finished reading&lt;/strong&gt; &lt;a href=&quot;http://pragprog.com/titles/ppmetr/metaprogramming-ruby&quot;&gt;Metaprogramming Ruby&lt;/a&gt;; more than a book, a great experience! I already suggested it to many people, but if you are interested in Ruby, read it by any mean!&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;A few people suggested me new events&lt;/strong&gt; to add to my &lt;a href=&quot;http://diotalevi.com/2010/12/30/startuptech-events-in-europe-january-march-2011/&quot;&gt;Startup/Tech European events list&lt;/a&gt;: now is more complete than ever! Have a look at it and choose your events for the first quarter of 2011.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;I've started by Ruby on Rails development contract; &lt;/strong&gt;I cannot blog much about that, but I'm having a lot of fun improving my Ruby and Rails skills.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;I've also reached an agreement &lt;/strong&gt;for another consulting contract for the first trimester of 2011; it's going to be more a performance and architecture review job than a coding one, but hopefully it will turn out to be interesting.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Finally, I've had some free hours on Sunday to put together a Trunk.ly Ruby client; &lt;/strong&gt;it is still incomplete and possibly buggy, &lt;a href=&quot;https://github.com/fdiotalevi/trunkly-ruby&quot;&gt;but it's already on GitHub&lt;/a&gt;. Give it a try. &lt;a href=&quot;http://trunk.ly&quot;&gt;Trunk.ly&lt;/a&gt; is still a young service, but very promising&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2011/01/08/week-1/</link>
+          <guid>http://www.diotalevi.com/2011/01/08/week-1/</guid>
+        </item>
+        <item>
+            <title>In Defense of Copycat Businesses</title>
+            <pubDate>Sat, 08 Jan 2011 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;In Defense of Copycat Businesses&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-01-08 12:00:00&quot;&gt;8th January 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-01-08 12:00:00&quot;&gt;8th January 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;The &lt;a href=&quot;http://it.startupscene.org/&quot;&gt;Italian Startup Scene&lt;/a&gt; group hosted, a few days ago, an interesting thread on copycats (clones of famous websites/services, think of one of the many &lt;a href=&quot;http://www.groupon.com/&quot;&gt;Groupon&lt;/a&gt; clones as an example). Copycat businesses are quite common in Europe, and seem to be particularly well considered by european VCs because they adopt well-known business models; as a matter of fact, the thread on ISS was started by an italian VC analyst.&lt;/p&gt;
+	&lt;p&gt;This thread got me thinking that, when &lt;a href=&quot;http://diotalevi.com/2010/11/03/startup-ideas-demystified/&quot;&gt;analysing several methods to come up with business ideas&lt;/a&gt;, I never considered blatantly copying another website. Entrepreneurs are creative people: what's creative in copying? The whole idea seems like a taboo for many. Good reason to think more about it!&lt;/p&gt;
+	&lt;p&gt;There might actually be nothing creative in copying, but startups and businesses are all about execution. And executing on a successful business model is (at least a bit) safer than the usual wandering in the dark.&lt;/p&gt;&lt;!--more--&gt;
+	&lt;p&gt;Doing some researches, I found dozens of successful examples; Germany leads the way with &lt;a href=&quot;http://www.myvideo.de/&quot;&gt;MyVideo&lt;/a&gt; (Youtube clone), &lt;a href=&quot;http://alando.de/&quot;&gt;Alando&lt;/a&gt; (eBay, and bought by eBay), &lt;a href=&quot;http://www.citydeal.de/&quot;&gt;CityDeal&lt;/a&gt; (bought by Groupon), &lt;a href=&quot;http://www.studivz.net/&quot;&gt;StudyViz&lt;/a&gt; (Facebook clone), &lt;a href=&quot;http://www.xing.de&quot;&gt;Xing&lt;/a&gt; (Linkedin); France have been &lt;a href=&quot;http://eu.techcrunch.com/2011/01/06/french-groupon-clone-bon-prive-scores-e1-5-million-to-conquer-more-french-territory/&quot;&gt;in the news recently with Bon-Prive'&lt;/a&gt; (Groupon clone, again), even Romania has its own Groupon (&lt;a href=&quot;http://www.zumzi.ro&quot;&gt;Zumzi&lt;/a&gt;) clone. And the list could go on forever.&lt;/p&gt;
+	&lt;p&gt;So should we stop doing... whatever we are doing... and go and start a copycat business? &lt;strong&gt;Maybe.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;Certainly you won't go that far creating a Facebook clone: Facebook is already localised in more than 100 languages. And if you are thinking about Groupon, there are already so many clones that it might not be worth the effort.&lt;/p&gt;
+	&lt;p&gt;But there are at least two conditions that make a successful website or business worth copying:&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;&lt;em&gt;it relies on knowledge that is specific to a certain country &lt;/em&gt;(f.i.: specific laws, taxes, deals with local businesses). That's why many Groupon clones have appeared: you need to be able to go on the field and sign agreements with the various shops. There are plenty of opportunity still open here: there's no alternative to &lt;a href=&quot;http://mint.com&quot;&gt;Mint&lt;/a&gt; in many countries, just to mention one&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;it is not localised, and targets a customer sector that (abroad) doesn't speak english; &lt;/em&gt;that's the cause for many &lt;a href=&quot;http://digg.com&quot;&gt;Digg&lt;/a&gt; and Youtube clones&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;So, when you think to the next big thing for you, it might be worth thinking about copycat businesses. You know the business model, you know exactly how to build the product... why not giving it a chance?&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2011/01/08/in-defense-of-copycat-businesses/</link>
+          <guid>http://www.diotalevi.com/2011/01/08/in-defense-of-copycat-businesses/</guid>
+        </item>
+        <item>
+            <title>Week 0</title>
+            <pubDate>Sun, 02 Jan 2011 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Week 0&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2011-01-02 12:00:00&quot;&gt;2nd January 2011&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2011-01-02 12:00:00&quot;&gt;2nd January 2011&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;em&gt;Following &lt;/em&gt;&lt;a href=&quot;http://timbull.com/&quot;&gt;&lt;em&gt;Tim Bull's example&lt;/em&gt;&lt;/a&gt;&lt;em&gt; I'll try to post weekly updates/retrospective on what I'm doing. Hopefully that should help me to keep track of my many activities, and (arguably) it might be of interest of the blog casual reader, since I'll keep working in the startup/web development field.&lt;/em&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;Week 0 is not really a retrospective, but a short summary of what I'll start doing from tomorrow.&lt;/em&gt;&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;After 10 years of Java development, I'm starting my first customer project in Ruby and Rails. I cannot really talk about it that much, but in short it's a prototype for a vertical social network. I'm really looking forward to it&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul&gt;
+	&lt;li&gt;I still have some time available for consulting projects in the first quarter, since the Ruby contract won't be fulltime. I have three meetings scheduled next week to meet potential customers, but if you have any interesting project, &lt;a href=&quot;mailto:filippo@knokode.com&quot;&gt;feel free to contact me&lt;/a&gt;!&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;ul&gt;
+	&lt;li&gt;I'm starting also my project in the Italian &lt;a href=&quot;https://groups.google.com/forum/?&amp;amp;#!forum/customerdevelopercamp&quot;&gt;CustomerDevelopmentCamp&lt;/a&gt;; I talked about this customer development &quot;study and practice&quot; group &lt;a href=&quot;http://diotalevi.com/2010/12/18/customer-development-in-10-weeks/&quot;&gt;here&lt;/a&gt;. I'm keeping a very detailed diary inside the Google Groups, but I'll republish it here the contents in English&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2011/01/02/week-0/</link>
+          <guid>http://www.diotalevi.com/2011/01/02/week-0/</guid>
+        </item>
+        <item>
+            <title>Startup/Tech Events in Europe, January-March 2011</title>
+            <pubDate>Thu, 30 Dec 2010 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Startup/Tech Events in Europe, January-March 2011&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-12-30 12:00:00&quot;&gt;30th December 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-12-30 12:00:00&quot;&gt;30th December 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;em&gt;A few days ago I &lt;/em&gt;&lt;a href=&quot;http://twitter.com/#!/fdiotalevi/status/19812453407793152&quot;&gt;&lt;em&gt;sent out a tweet&lt;/em&gt;&lt;/a&gt;&lt;em&gt; asking people to suggest technology or startup events in Europe in the next few months... the answers have been quite depressing. There are actually a few lists of events online, but they cover just a tiny fraction of what's actually available.&lt;/em&gt;&lt;br/&gt;
+	&lt;em&gt;So I decided to put together the list. I had to leave out all user group meetings... they are way too much! &lt;/em&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;I'm sure I forgot many events. Please add any other interesting event you are aware of in the comments&lt;/em&gt;&lt;/p&gt;&lt;!--more--&gt;&lt;!--more--&gt;
+	&lt;p&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Garage 48 Helsinki&lt;/strong&gt;&lt;br /&gt; January 14th-16th, Helsinki, Finland&lt;br /&gt; &lt;a href=&quot;http://www.garage48.org/events/helsinki-2011&quot;&gt;http://www.garage48.org/events/helsinki-2011&lt;/a&gt;&lt;br /&gt; Garage48 is a boot-camp style community event to build new services just in 48 hours&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Seedcamp London&lt;/strong&gt;&lt;br /&gt; January 25th, London, UK&lt;br /&gt; &lt;a href=&quot;http://seedcamp.com/pages/london11jan&quot;&gt;http://seedcamp.com/pages/london11jan&lt;/a&gt;&lt;br /&gt; Seedcamp London is a one day event aiming to connect the 20 best web-tech, mobile and software talent with some of the leading entrepreneurs, developers, and experts from the tech ecosystem. The event will be held at Nesta's London premises. The deadline for applications in January 12th.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Startup Weekend Brussels &lt;/strong&gt;&lt;br /&gt; January 28th-30th, Brussels, Belgium&lt;br /&gt; &lt;a href=&quot;http://brussels.startupweekend.org/&quot;&gt;http://brussels.startupweekend.org/&lt;/a&gt;&lt;br /&gt; The organisers told me the official language of this event will be English, so anybody can attend it.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Startup Weekend Oslo&lt;/strong&gt;&lt;br /&gt; January 28th-30th, Oslo, Norway&lt;br /&gt; &lt;a href=&quot;http://oslo.startupweekend.org/tickets/&quot;&gt;http://oslo.startupweekend.org/tickets/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Fosdem&lt;/strong&gt;&lt;br /&gt; February 5th-6th, Brussels, Belgium&lt;br /&gt; &lt;a href=&quot;http://www.fosdem.org/2011/&quot;&gt;http://www.fosdem.org/2011/&lt;/a&gt;&lt;br /&gt; FOSDEM is the biggest free and non-commercial event organized by and for the community. Its goal is to provide Free and Open Source developers a place to meet. No registration necessary.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Startup Camp Modena 2011&lt;/strong&gt;&lt;br /&gt; February 12th, Modena, Italy&lt;br /&gt; &lt;a href=&quot;http://http://barcampmodena.blogspot.com/&quot;&gt;http://http://barcampmodena.blogspot.com/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Jfokus&lt;/strong&gt;&lt;br /&gt; February 14th-16th, Stockholm, Sweden&lt;br /&gt; &lt;a href=&quot;http://www.jfokus.com&quot;&gt;http://www.jfokus.com&lt;/a&gt;&lt;br /&gt; Jfokus is the largest annual conference for everyone who works with Java in Sweden. The conference is in English.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Mobile World Congress&lt;/strong&gt;&lt;br /&gt; February 14th-17th, Barcelona, Spain&lt;br /&gt; &lt;a href=&quot;http://www.mobileworldcongress.com/index.htm&quot;&gt;http://www.mobileworldcongress.com/index.htm&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Startup Weekend Nantes&lt;/strong&gt;&lt;br /&gt; February 18th-20th, Nantes, France&lt;br /&gt; &lt;a href=&quot;http://nantes.startupweekend.org/&quot;&gt;http://nantes.startupweekend.org/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Startup Weekend Eindhoven&lt;/strong&gt;&lt;br /&gt; February 18th-20th, Eindhoven, the Netherlands&lt;br /&gt; &lt;a href=&quot;http://eindhoven.startupweekend.org/&quot;&gt;http://eindhoven.startupweekend.org/&lt;/a&gt;&lt;br /&gt; The website states the official language of the event is English!&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;BASTA! 2011&lt;/strong&gt;&lt;br /&gt; February 21st-25th, Darmstadt, Germany&lt;br /&gt; &lt;a href=&quot;http://basta.net/2011spring/aufeinenblick/&quot;&gt;http://basta.net/2011spring/&lt;/a&gt;&lt;br /&gt; .NET conference; it is mainly in German, with a few sessions in English.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;SES London 2011&lt;/strong&gt;&lt;br /&gt; February 21st-25th, London, United Kingdom&lt;br /&gt; &lt;a href=&quot;http://www.searchenginestrategies.com/london/&quot;&gt;hhttp://www.searchenginestrategies.com/london/&lt;/a&gt;&lt;br /&gt;SES London is the leading search marketing conference in Europe.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Codemotion&lt;/strong&gt;&lt;br /&gt; March 5th, Rome, Italy&lt;br /&gt; &lt;a href=&quot;http://codemotion.it&quot;&gt;http://codemotion.it&lt;/a&gt;&lt;br /&gt; Codemotion is the Italian technology event with the highest number of participants. It used to be a Java-related conference, but it is open now to all languages and technologies. Mainly (if not entirely) in Italian.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;QCon 2011&lt;/strong&gt;&lt;br /&gt; March 7th-11th, London, UK&lt;br /&gt; &lt;a href=&quot;http://qconlondon.com/london-2011/conference/&quot;&gt;http://qconlondon.com/london-2011/conference/&lt;/a&gt;&lt;br /&gt; The fifth annual London enterprise software development conference designed for team leads, architects and project management is back!&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Simple design and testing conference&lt;/strong&gt;&lt;br /&gt; March 12th-13th, London, UK&lt;br /&gt; &lt;a href=&quot;http://skillsmatter.com/event/design-architecture/simple-design-and-testing-conference&quot;&gt;http://skillsmatter.com/event/design-architecture/simple-design-and-testing-conference&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Future of Web Design&lt;/strong&gt;&lt;br /&gt; March 16th-18th, London, UK&lt;br /&gt; &lt;a href=&quot;http://futureofwebdesign.com/london-2011/&quot;&gt;http://futureofwebdesign.com/london-2011/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Functional Programming Exchange&lt;/strong&gt;&lt;br /&gt; March 18th, London, United Kingdom&lt;br /&gt; &lt;a href=&quot;http://skillsmatter.com/event/scala/functionalpx-2011&quot;&gt;http://skillsmatter.com/event/scala/functionalpx-2011&lt;/a&gt;
+	&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Startup Weekend Nice&lt;/strong&gt;&lt;br /&gt; March 18th-20th, Nice, France&lt;br /&gt; &lt;a href=&quot;http://nice.startupweekend.org/&quot;&gt;http://nice.startupweekend.org/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;MongoUK 2011&lt;/strong&gt;&lt;br /&gt; March 21th, London, United Kingdom&lt;br /&gt; &lt;a href=&quot;http://www.10gen.com/conferences/mongouk2011/&quot;&gt;http://www.10gen.com/conferences/mongouk2011&lt;/a&gt;&lt;br/&gt;MongoUK is a one-day conference dedicated to the open source, non-relational database MongoDB.
+	&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Barcamp Ruhr 4&lt;/strong&gt;&lt;br /&gt; March 26th-27th, Essen, Germany&lt;br /&gt; &lt;a href=&quot;http://www.barcampruhr3.de/&quot;&gt;http://www.barcampruhr3.de/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;MobileTech Conference&lt;/strong&gt;&lt;br /&gt; March 28th-30th, Munich, Germany&lt;br /&gt; &lt;a href=&quot;http://mobiletechcon.de/&quot;&gt;http://mobiletechcon.de/&lt;/a&gt;&lt;br /&gt; The conference is mainly in German, with a few sessions in English.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Social Media World Forum&lt;/strong&gt;&lt;br /&gt; March 29th-30th, London, United Kingdom&lt;br /&gt; &lt;a href=&quot;http://www.socialmedia-forum.com/europe/&quot;&gt;http://www.socialmedia-forum.com/europe/&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/12/30/startuptech-events-in-europe-january-march-2011/</link>
+          <guid>http://www.diotalevi.com/2010/12/30/startuptech-events-in-europe-january-march-2011/</guid>
+        </item>
+        <item>
+            <title>Retrospective, and what's ahead</title>
+            <pubDate>Mon, 27 Dec 2010 12:00:00 +0000</pubDate>
+          <description>title: Retrospective, and what's ahead
+author: Filippo Diotalevi
+date: 2010/12/27
+
+&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Retrospective, and what's ahead&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-12-27 12:00:00&quot;&gt;27th December 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-12-27 12:00:00&quot;&gt;27th December 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;I'm spending a few days in Italy (mostly eating and wasting too much time browsing and reading blogs) for the end of the year, so there's no better time for a retrospective.&lt;/p&gt;
+	&lt;p&gt;Without any doubt 2010 has been the most hectic year of my life. A lot of fun, a lot of learning, and quite a few adventures.&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;I've been contracting with &lt;a href=&quot;http://vodafone.com&quot;&gt;Vodafone&lt;/a&gt; for the first eight months of the year.&lt;/em&gt; After accepting a new role in January, I've split my time between London and Dsseldorf, having the chance to enjoy both the life and tech scene in London, and the calmness of Dsseldorf in the weekends. For the first time in my career, my new role didn't involve any coding at all; while I enjoyed the &quot;architect&quot; position, and the opportunity to see and work in different projects, I still missed a more hands-on job.&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;In February I started talking with a few people about creating an &lt;a href=&quot;http://vark.com/&quot;&gt;Aardvark for the Enterprise&lt;/a&gt;; after many refinements and corrections, &lt;a href=&quot;http://mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt; was born&lt;/em&gt;. &lt;!--more--&gt;You probably know the story since I blogged about it quite a bit. To cut the story short, Mindquilt is still alive and kicking; we have a steady (albeit very small) number of signups every week, and the application is live since a few months now without any issue. From a business point of view it is far from being profitable though.&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;In the same period, with another group of people, we started thinking about creating a tool to simplify the use of &lt;a href=&quot;http://git-scm.com/&quot;&gt;Git&lt;/a&gt; in big companies&lt;/em&gt;. Being coders, we wrote it from scratch in a few months, starting from March. &lt;a href=&quot;http://gitenterprise.com/&quot;&gt;GitEnteprise&lt;/a&gt; was born. Eventually I left the project in June because I really had too many things on my plate; but I'm told that I'm still one of the top committers in the project! I believe GitEnterprise is in private beta now, so have a look if you are interested.&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;I spent September and October in Austin, Texas, trying to help Mindquilt grow&lt;/em&gt;. My experience there was nothing short of amazing. I had the chance to attend the &lt;a href=&quot;http://austin.startupweekend.org/&quot;&gt;Austin Startup Weekend&lt;/a&gt;, to talk with dozens of successful, unsuccessful and aspiring entrepreneurs and, eventually, totally change my view on software development. I met the &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_Startup&quot;&gt;lean startup movement&lt;/a&gt;. I've become obsessed with &lt;strong&gt;launching &lt;/strong&gt;projects (and real rapid development of applications), and done &lt;a href=&quot;http://havealaunch.com/Home.action&quot;&gt;a&lt;/a&gt; &lt;a href=&quot;http://justshare.me/&quot;&gt;few&lt;/a&gt; &lt;a href=&quot;http://amovieforme.heroku.com/&quot;&gt;experiments&lt;/a&gt; to try different tools and techniques.&lt;/p&gt;
+	&lt;p&gt;Unfortunately &lt;a href=&quot;http://diotalevi.com/2010/11/26/screw-it/&quot;&gt;I've also experienced some problems with US customs&lt;/a&gt;, and now my experience in Texas is (at least momentarily) over.&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;Back in Europe, I've spent most part of November travelling&lt;/em&gt; (Dsseldorf, London, Antwerp for &lt;a href=&quot;http://devoxx.com&quot;&gt;Devoxx&lt;/a&gt; and Italy) and trying to evaluate the european startup community. I found some signs of life in London startups (at the &lt;a href=&quot;http://www.meetup.com/opencoffee/&quot;&gt;Opencoffee meeting&lt;/a&gt; and at the &lt;a href=&quot;http://www.meetup.com/the-london-lean-startup-group/&quot;&gt;London Lean Startup&lt;/a&gt; meetup); a very interesting and active Italian Facebook group called &lt;a href=&quot;http://it.startupscene.org/&quot;&gt;Italian Startup Scene&lt;/a&gt;; but nothing at all in Dusseldorf and in Nordrhein Westfalen. Luckily I'm not the only one surprised and disappointed by this thing, and my friend Omar is &lt;a href=&quot;http://blog.adobati.it/2010/12/hackingddorf.html&quot;&gt;trying to do something about that&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;December has been, for a change, a very quiet month.&lt;/em&gt; I took the opportunity to reorganise my home office in Dsseldorf and to start (seriously) learning &lt;a href=&quot;http://rubyonrails.org&quot;&gt;Ruby on Rails&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;What's ahead&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;I don't know :) !&lt;/p&gt;
+	&lt;p&gt;I learnt a lot during 2010. I mostly learnt a lot of non-technical skills: creating a startup, pitching products and ideas, applying &lt;a href=&quot;http://startup-marketing.com/&quot;&gt;startup marketing&lt;/a&gt;, launching products and trying to sell them. I learnt on the field the basics of startup finance and funding, and I read everything possible about that (yes, even the 1100+ pages &lt;a href=&quot;http://venturehacks.com/&quot;&gt;VentureHacks&lt;/a&gt; book). I'm certainly looking for ways to develop these skills.&lt;/p&gt;
+	&lt;p&gt;In practice, I will spend less time on Mindquilt. Much less.&lt;/p&gt;
+	&lt;p&gt;At the moment I'm evaluating different ideas for new products/services to launch on 2011. Don't expect news any time soon though, I'll take my time.&lt;/p&gt;
+	&lt;p&gt;I'll probably also try to do some contract work during 2011. Shorter contracts, hopefully; ideally something that will help me to grow my new skills (startup marketing? ruby on rails?). Let's see.&lt;/p&gt;
+	&lt;p&gt;Finally, if you are interested in talking about possible collaborations, new projects, consulting gigs or just crazy ideas, &lt;a href=&quot;mailto:filippo@knokode.com&quot;&gt;drop me a line&lt;/a&gt;. That's the right time of the year&lt;/p&gt;
+	&lt;p&gt;&lt;/p&gt;
+	&lt;p&gt;Happy new year!&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/12/27/retrospective-and-whats-ahead/</link>
+          <guid>http://www.diotalevi.com/2010/12/27/retrospective-and-whats-ahead/</guid>
+        </item>
+        <item>
+            <title>Printable Lean Canvas (pdf)</title>
+            <pubDate>Sun, 19 Dec 2010 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Printable Lean Canvas (pdf)&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-12-19 12:00:00&quot;&gt;19th December 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-12-19 12:00:00&quot;&gt;19th December 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;Since I haven't been able to find one online, I've just created a pdf version of the Lean Canvas that you can print and use for your projects.&lt;/p&gt;
+	&lt;p&gt;Download the &lt;a href=&quot;http://blog.diotalevi.com.s3.amazonaws.com/leancanvas.pdf&quot;&gt;printable Lean Canvas here&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;For any explanation please refer to &lt;a href=&quot;http://diotalevi.com/2010/10/24/the-lean-canvas/&quot;&gt;my previous blog post&lt;/a&gt; or to &lt;a href=&quot;http://www.ashmaurya.com/&quot;&gt;Ash Maurya&lt;/a&gt;'s blog.&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/12/19/printable-lean-canvas-pdf/</link>
+          <guid>http://www.diotalevi.com/2010/12/19/printable-lean-canvas-pdf/</guid>
+        </item>
+        <item>
+            <title>Screw it</title>
+            <pubDate>Fri, 26 Nov 2010 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Screw it&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-11-26 12:00:00&quot;&gt;26th November 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-11-26 12:00:00&quot;&gt;26th November 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;em&gt;I wrote this post a few days ago, and let it marinate for while... unsure whether to post it or not. But here it is&lt;/em&gt;&lt;/p&gt;
+	&lt;p&gt;--------------------------&lt;/p&gt;
+	&lt;p&gt;I'm on my flight back from Atlanta; not surprising if you know me, I have been quite (euphemism) around in the last few years.The difference is I have been escorted by a US Custom Officer to this particular flight; I was refused the entrance to the US.&lt;/p&gt;
+	&lt;p&gt;The story is simple: I am, as many of you already know, a minority shareholder of &lt;a href=&quot;http://mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt;, a Texan C Corp startup. And I was going to Austin to meet my business partner, discuss our product and strategy, see what's going wrong, and fix a few bugs in the code.I was going there totally at my personal expenses (flights, meals and even contributing to the rent) because in most of the startups there are no money but only work to do to make them happen. And I was going (ingenuously, naively, stupidly certainly) under a touristic visa because it was simply the only option (more on that later) to go there.&lt;/p&gt;
+	&lt;p&gt;Refused entrance because I was going to do unauthorised work in the US, according to custom officials. Doing work from a company that I partially own and doesn't make any money at the time, that was funny.&lt;/p&gt;
+	&lt;p&gt;The right process should have been, according US custom officers [1], applying for a B1 visa; however, I noticed, B1 visa does not cover the case where you are paid (in any way) for your services, and they had just argued that shareholding is a payment for my services. Oh no, H1B visa; however, H1B is very startup-unfriendly, as it requires you to be paid a market-rate salary. Whatever.&lt;/p&gt;
+	&lt;p&gt;The immigration lawyer says there are actually a few options. O-1, for instance. I have written a couple of books and talked to conferences, and I might apply for this Visa for people with &quot;extraordinary ability in the sciences, arts, education, business, or athletics&quot;. I'm sure my mum would be so proud of that... but are you kidding me? Extraordinary yadda yadda? Or an investor Visa, sure, an investor Visa. It might take some time, certainly some money. Is it worth it?&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;I say screw it. It's just not worth it.&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;Yes, Austin and the Valley have an incredible weather, and &lt;!--more--&gt;thousands of startups, and events every night to grow new entrepreneurs. And local celebrities, people who 'made it', who are available to have a coffee or lunch with you, just because you have the guts to try to build your company.And moneys in the Valley are just flowing like in the nineties, with a bubble going on where start-ups are overfunded, and then just sold for too much money to the big names, creating new riches who can invest in new startups.&lt;/p&gt;
+	&lt;p&gt;Yes I enjoyed the days I spent in Austin, &lt;a href=&quot;http://austin.startupweekend.org/&quot;&gt;the start-up weekend&lt;/a&gt;, the &lt;a href=&quot;http://www.meetup.com/Austin-Lean-Startup-Circle/&quot;&gt;lean startup meetings&lt;/a&gt;, going to the golf range, talking to people I never met before in the coffee shops, and having lunches and beers and coffees with other aspiring entrepreneurs. I'm gonna miss that.&lt;/p&gt;
+	&lt;p&gt;But if you look deep down, besides the gorgeous weather and the shiny success stories you read on Techcrunch, startups are all about passionate people, who want to build something. And I saw these people in London, Italy, Paris as I saw them in the US.I was in London a few days ago to attend the &lt;a href=&quot;http://www.meetup.com/londonocc/&quot;&gt;local open coffee&lt;/a&gt; and Lean Startup night; I saw there people trying to build their startup. I didn't see anybody from the local celebrities like &lt;a href=&quot;http://www.shazam.com/&quot;&gt;Shazaam&lt;/a&gt;, &lt;a href=&quot;http://last.fm&quot;&gt;Last.fm&lt;/a&gt; or &lt;a href=&quot;http://spotify.com&quot;&gt;Spotify&lt;/a&gt;, though.&lt;/p&gt;
+	&lt;p&gt;Startups are all about connecting people, connecting aspiring entrepreneurs. Making them feel they are not alone in their craziness. Giving them examples, helping them connect to each other.&lt;/p&gt;
+	&lt;p&gt;Guess what, you don't need a valley for that. You don't need too much money. You need to &lt;em&gt;just fucking do it.&lt;/em&gt;&lt;/p&gt;
+	&lt;p&gt;So i'm calling all the fellow crazy aspiring entrepreneurs out. Im calling out people from Spotify, Last.fm, Shazaam and from the smaller, unknown startups. Come out from your cave and talk to your colleagues. Let's find events, opportunities, and places where we can meet and learn. I'll certainly keep trying.&lt;/p&gt;
+	&lt;p&gt;&lt;/p&gt;
+	&lt;p&gt;Notes&lt;/p&gt;
+	&lt;p&gt;&lt;em&gt;[1] Let me clarify that I don't want to criticise US Custom Officers in this post. I have spent 24 hours with them, and they do one of the toughest job I have ever seen. They work in 9-10 hour shifts, 24/7, with hundreds of people to check (often people who don't know any English word) during peak times. And they do their job always in a professional way. And often with great sense of humour.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/11/26/screw-it/</link>
+          <guid>http://www.diotalevi.com/2010/11/26/screw-it/</guid>
+        </item>
+        <item>
+            <title>Retention vs Conversion</title>
+            <pubDate>Mon, 15 Nov 2010 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Retention vs Conversion&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-11-15 12:00:00&quot;&gt;15th November 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-11-15 12:00:00&quot;&gt;15th November 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;Talking to early-startup founders (just a few days ago at the &lt;a href=&quot;http://www.meetup.com/the-london-lean-startup-group/&quot;&gt;Lean Startup meeting in London&lt;/a&gt;) it often strikes me how much attention is paid to user acquisition and &lt;a href=&quot;http://en.wikipedia.org/wiki/Conversion_rate&quot;&gt;conversion&lt;/a&gt; in particular. Of course everybody loves to be able to talk about their millions of signed up users, but products are evaluated on &lt;strong&gt;active users&lt;/strong&gt;, not on signups. Having many active users means your product is useful, while having signups means you are good at marketing and advertising.&lt;/p&gt;
+	&lt;p&gt;And active users are first and foremost a consequence of &lt;strong&gt;retention.&lt;/strong&gt; As &lt;a href=&quot;http://500hats.typepad.com/500blogs/&quot;&gt;Dave McClure&lt;/a&gt; says, your first goal is to build a &lt;strong&gt;better mousetrap&lt;/strong&gt;.&lt;/p&gt;
+	&lt;p&gt;&lt;img title=&quot;mousetrap_free_505530_43951659.jpg&quot; src=&quot;http://dl.dropbox.com/u/1964762/diotalevi.com/images/mousetrap.jpg&quot; border=&quot;0&quot; alt=&quot;mousetrap_free_505530_43951659.jpg&quot; width=&quot;370&quot; height=&quot;220&quot; /&gt;&lt;/p&gt;
+	&lt;p&gt;The math is simple: &lt;!--more--&gt;you can spend as much money to make your website perfect, your marketing message crystal clear, but at the end of the day if your users leave the product after a week (that is, you have &lt;strong&gt;low retention&lt;/strong&gt;), you don't have a business. You can spend more money, advertise like crazy, but all new users will eventually leave because your product doesn't fit their needs (&lt;a href=&quot;http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html&quot;&gt;you don't have product/market fit&lt;/a&gt;).&lt;/p&gt;
+	&lt;p&gt;So early stage startups must focus on retention, rather than conversion. Steve Ellis takes a similar approach defining the &lt;a href=&quot;http://startup-marketing.com/the-startup-pyramid/&quot;&gt;product/market fit as the moment when 40% of the users say they would be very disappointed without your product&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;So the first thing to do is&lt;strong&gt; focus uniquely on your retention until you reach a 40-60% retention&lt;/strong&gt; (month over month, week over week, it depends on your product/business); that involves refining your product, adding/removing features, clarifying the user experience, and is the only way to know you have created a product useful for your customers. After that, you can work on conversion, and that's a pure marketing effort.&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/11/15/retention-vs-conversion/</link>
+          <guid>http://www.diotalevi.com/2010/11/15/retention-vs-conversion/</guid>
+        </item>
+        <item>
+            <title>Startup Bookstore</title>
+            <pubDate>Sat, 13 Nov 2010 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Startup Bookstore&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-11-13 12:00:00&quot;&gt;13th November 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-11-13 12:00:00&quot;&gt;13th November 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;A few people have asked me recommendations for good resources/books on lean startups. That's my list:&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Four-Steps-Epiphany-Steven-Blank/dp/0976470705&quot;&gt;Four steps to the epiphany&lt;/a&gt; let me say it clearly: this book is boring, badly structured and poorly written. However, it all started here. The Customer Development chapter, in particular, contains the essence of lean startups&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://leanpub.com/startuplessonslearned&quot;&gt;Startup Lessons Learned&lt;/a&gt; this book contains all the archive of Eric Ries' blog. A lot of practical experience in applying lean and agile methods in startups&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.custdev.com/&quot;&gt;The Entrepreneurs Guide to Customer Development for Tech Startups&lt;/a&gt; a sort of cheat sheet to &quot;Four steps to the epiphany&quot;. Contains a lot of case studies and summaries the lean startup thinking&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://leanpub.com/seanellis&quot;&gt;Startup Marketing,Unlocking Startup Growth&lt;/a&gt; honestly, don't trust any marketeer who doesn't know the work of Sean Ellis&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://leanpub.com/venturehacks/&quot;&gt;The Venture Hacks Bible&lt;/a&gt; not directly related to lean startup, but that's a 1100+ page pdf containing everything you need to know&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://venturehacks.com/pitching&quot;&gt;Pitching Hacks&lt;/a&gt; the art of pitching explained&lt;/li&gt;
+	&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/11/13/startup-bookstore/</link>
+          <guid>http://www.diotalevi.com/2010/11/13/startup-bookstore/</guid>
+        </item>
+        <item>
+            <title>Startup Ideas, demystified</title>
+            <pubDate>Wed, 03 Nov 2010 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Startup Ideas, demystified&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-11-03 12:00:00&quot;&gt;3rd November 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-11-03 12:00:00&quot;&gt;3rd November 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;In my quest to rationalise the entrepreneur job I've been thinking lately to a repeatable process to come up with &lt;em&gt;startup ideas. &lt;/em&gt;A word of caution before starting: &lt;a href=&quot;http://www.oreillynet.com/onlamp/blog/2005/08/ideas_are_just_a_multiplier_of.html&quot;&gt;ideas&lt;/a&gt; &lt;a href=&quot;http://thenextbigtechthing.com/ideas-are-worth-nothing/&quot;&gt;are&lt;/a&gt; &lt;a href=&quot;http://www.paulgraham.com/ideas.html&quot;&gt;worthless&lt;/a&gt;. So coming up with startup ideas means only finding some starting points to begin your &lt;a href=&quot;http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html&quot;&gt;customer development process&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Simplify and Split-and-Simplify&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;One common remark is that many websites are too complex or offer too many features that only a small percentage of the subscribers use. Old story. Therefore two techniques to find ideas worth investigating are&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;simplify &lt;/strong&gt;take one successful service and make a simplified version&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;split-and-simplify &lt;/strong&gt;take one specific feature of a successful service and create an improved version&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;&lt;strong&gt;Examples, trends and ideas&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Let's apply the idea to 4 of the top 10 websites on &lt;a href=&quot;http://www.alexa.com/&quot;&gt;Alexa.com&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;!--more--&gt;
+	&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Google (&lt;/strong&gt;let's consider it as a search engine only) as a search engine, Google is already the result of an over-simplification compared to the previous generation of Search Engines/Portals. No much to improve here!&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Facebook &lt;/strong&gt;it is an interesting example because this service is a collection of many features, with a poor (even if constantly improving) user experience; there are definitely many areas where newcomers can propose something new like
+	&lt;ul&gt;
+	&lt;li&gt;&lt;em&gt;high quality profile pages; &lt;/em&gt;think something like Google Profiles (but not designed by a geek) or &lt;a href=&quot;http://chi.mp/&quot;&gt;chi.mp&lt;/a&gt;&lt;strong&gt;; &lt;/strong&gt;there's definitely the space for services allowing user to create nicely designed profile pages that can be also displayed in your Facebook, Linkedin pages (and of course in your iPad and on your mobile). Pay attention to &lt;a href=&quot;http://about.me/&quot;&gt;About.me&lt;/a&gt; in this space, they're coming out of beta very soon.&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;groups; &lt;/em&gt;surprisingly many user groups are still using Yahoo! Groups, whose design is stably in the 90ies but still better than Facebook Groups or (urgh) Google Groups. I'm not aware of any good alternative to manage a mailing list + nice web interface + additional services&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;photo sharing; &lt;/em&gt;a google search for &quot;&quot;simple photo sharing&quot; gives around 30.000 results; yes, photo sharing gets lot of attention, I'd stay out of it&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;activity stream; &lt;/em&gt;even if Twitter is trying to join the bloatware bandwagon, there's still an activity stream for every taste&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Youtube &lt;/strong&gt;also in this case, everybody is trying to sell a &quot;simple video sharing&quot;. Crowded space. It's interesting however to notice that &lt;a href=&quot;http://disqus.com/&quot;&gt;Disqus&lt;/a&gt; have been able to take a very small feature of video/photo sharing (and blogs) like comments and build a hugely service successful service. An extreme case of split-and-simplify&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Wikipedia &lt;/strong&gt;there are many experiments going on trying to simplify the access to Wikipedia. I already blogged about &lt;a href=&quot;http://diotalevi.com/2010/10/26/qwiki-first-impressions/&quot;&gt;QWiki&lt;/a&gt; a few days ago, one of the most interesting.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;There are many more examples that you can find thinking at other successful websites (del.icio.us, ebay, ...). Happy idea hunting!&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/11/03/startup-ideas-demystified/</link>
+          <guid>http://www.diotalevi.com/2010/11/03/startup-ideas-demystified/</guid>
+        </item>
+        <item>
+            <title>QWiki, first impressions</title>
+            <pubDate>Tue, 26 Oct 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;QWiki, first impressions&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-10-26 12:00:00&quot;&gt;26th October 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-10-26 12:00:00&quot;&gt;26th October 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;Today I received my invitation to signup for the &lt;a href=&quot;http://www.qwiki.com&quot;&gt;QWiki&lt;/a&gt; Alpha, the product that has recently won the &lt;a href=&quot;http://disrupt.techcrunch.com/2010-sf/&quot;&gt;Techcrunch Disrupt&lt;/a&gt;; I must confess I couldn't wait to try it, so I went ahead and just tried it:&lt;/p&gt;
+	&lt;object width=&quot;480&quot; height=&quot;385&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/z4Zv95VdXes?fs=1&amp;amp;hl=en_US&amp;amp;rel=0&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;http://www.youtube.com/v/z4Zv95VdXes?fs=1&amp;amp;hl=en_US&amp;amp;rel=0&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;480&quot; height=&quot;385&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+
+	&lt;p&gt;&lt;strong&gt;First impressions&lt;/strong&gt;&lt;/p&gt;&lt;!--more--&gt;
+	&lt;ul&gt;
+	&lt;li&gt;the contents available are already &lt;strong&gt;massive; &lt;/strong&gt;they claim to have 2 millions of qwikis already, things that rule out the possibility they're all manually crafting all the entries... there's definitely a lot of automation behind&lt;/li&gt;
+	&lt;li&gt;it's not, as somebody suggested, just a voice over wikipedia; qwikis are fairly short and to the point&lt;/li&gt;
+	&lt;li&gt;the voice is quite good (as good as can a voicesynthesiser can be, which unfortunately is far from perfect)&lt;/li&gt;
+	&lt;li&gt;voice and images are often not perfectly synchronised, but it's a very acceptable first attempt&lt;/li&gt;
+	&lt;li&gt;navigation between qwikis (and to external resources) is still limited&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;All in all, a very interesting first alpha, and I'm very curious to see how it will evolve.&lt;/p&gt;
+	&lt;p&gt;&lt;/p&gt;
+	&lt;p&gt;The other interesting question is what their business model is going to be.&lt;br/&gt;
+	The &lt;a href=&quot;http://www.qwiki.com/for-publishers&quot;&gt;What's Next&lt;/a&gt; page lists the first ideas: &lt;strong&gt;personal and professional presentation, dating, shop and restaurants advertisement, real estate&lt;/strong&gt;. All interesting fields, but unless they are willing to build their own thematic portals, they would end up being just a feature in some other existing product.&lt;/p&gt;
+	&lt;p&gt;On the other side, at first glance, I can certainly see a use as an entertainment channel: for example as a dedicated channel/application of &lt;a href=&quot;http://www.google.com/tv/&quot;&gt;GoogleTV&lt;/a&gt; or in cable TV.&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/10/26/qwiki-first-impressions/</link>
+          <guid>http://www.diotalevi.com/2010/10/26/qwiki-first-impressions/</guid>
+        </item>
+        <item>
+            <title>The Lean Canvas</title>
+            <pubDate>Sun, 24 Oct 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;The Lean Canvas&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-10-24 12:00:00&quot;&gt;24th October 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-09-15 12:00:00&quot;&gt;24th October 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;Last Friday I had the opportunity to attend an &lt;a href=&quot;http://www.ashmaurya.com/&quot;&gt;Ash Maurya&lt;/a&gt;'s workshop on Lean Startup, and finally had some time to spend reviewing his idea of the Lean Canvas (have a look at his &lt;a href=&quot;http://www.ashmaurya.com/2010/09/lean-startup-is-a-rigorous-process/&quot;&gt;original post on it&lt;/a&gt; for more details).&lt;/p&gt;
+	&lt;p&gt;What I find interesting of his approach, and of &lt;a href=&quot;http://steveblank.com/&quot;&gt;Steve Blank lean startup method&lt;/a&gt; in general, is their systematic work to demystify the work and figure of the entrepreneur. We have so many books trying to describe famous (and less famous) entrepreneurs as mythological super-heros, but as Eric Ries and Paul Graham have noted, we don't know the real story behind successful startups, because &lt;a href=&quot;http://www.startuplessonslearned.com/2010/10/stop-lying-on-stage.html&quot;&gt;nobody tells it on stage&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;The Lean Canvas in particular can be seen as a tool to describe an initial startup idea (in term of the problem it is going to solve), and refine it iteratively using the scientific method (describe hypothesis -&amp;gt; experiment -&amp;gt; measure -&amp;gt; prove the hypothesis true or false). That's how the canvas look like&lt;/p&gt;&lt;!--more--&gt;&lt;p&gt;&lt;img title=&quot;leancanvas.png&quot; src=&quot;http://dl.dropbox.com/u/1964762/diotalevi.com/images/leancanvas1.png&quot; border=&quot;0&quot; alt=&quot;leancanvas.png&quot; width=&quot;600&quot; height=&quot;417&quot; /&gt;&lt;/p&gt;
+	&lt;p&gt;The Lean Canvas, in itself, is just a tool to describe the assumptions you make before starting your business; as such, it is useful, but nothing revolutionary, in my opinion. However it become much more interesting (and challenging) when you throw in some of the assumptions of lean startups:&lt;/p&gt;
+	&lt;ul&gt;
+	&lt;li&gt;you use the scientific method to prove/disprove every assumption written in the canvas; that usually involves interviewing a big number of potential customers, advisors, potential channels to find out whether the assumptions are correct or not&lt;/li&gt;
+	&lt;li&gt;you progressively iterate to produce better canvases (that is, canvases that describe the best product/solution fit)&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;Interesting enough, there's very little code during the development of the canvas (possibly only some HTML to layout a demo of the solution); it's all about finding the right problem and the right solution, and doing that in a systematic and repeatable way.&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/10/24/the-lean-canvas/</link>
+          <guid>http://www.diotalevi.com/2010/10/24/the-lean-canvas/</guid>
+        </item>
+        <item>
+            <title>Product launch, a checklist</title>
+            <pubDate>Tue, 12 Oct 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Product launch, a checklist&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-10-12 12:00:00&quot;&gt;12th October 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-10-12 12:00:00&quot;&gt;12th October 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;strong&gt;Launching&lt;/strong&gt; is becoming my mantra nowadays :) However, I'm not going to talk of &lt;a href=&quot;http://havealaunch.com&quot;&gt;my little (awesome) pet-project (that you absolutely have to try)&lt;/a&gt;, but of the things I've learnt so far about doing a marketing launch of your product.&lt;/p&gt;
+
+	&lt;p&gt;At &lt;a href=&quot;http://mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt; we have done three launches so far: the initial beta at the &lt;a href=&quot;http://diotalevi.com/2010/05/20/marketing-on-a-shoestring-aka-mindquilt-is-going-to-boston/&quot;&gt;Enterprise 2.0 Launchpad in June&lt;/a&gt;, the &lt;a href=&quot;http://www.google.com/enterprise/marketplace/viewListing?productListingId=6332+14364393082202487570&quot;&gt;Google App launch in September&lt;/a&gt; and today &lt;a href=&quot;http://www.mindquilt.com/archives/479&quot;&gt;the integration with Eventbrite&lt;/a&gt;. For a startup without a dedicated budget for a PR firm, it's vital to be able to make more noise possible in every opportunity. That's why I've drafted and refined &lt;strong&gt;my product launch checklist&lt;/strong&gt;.&lt;/p&gt;
+
+	&lt;strong&gt;Preparation&lt;/strong&gt;
+
+	&lt;p&gt;Preparation for a market launch starts at least 3 weeks before the launch date. That's our checklist:&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;Screencast: creating a screencast of a new product/functionality is the most effective and cheap way to promote it. We use &lt;a href=&quot;http://www.telestream.net/screen-flow/overview.htm&quot;&gt;Screenflow&lt;/a&gt; and &lt;a href=&quot;http://audacity.sourceforge.net/&quot;&gt;Audacity&lt;/a&gt; for that. If you are a Windows user, I heard good things about &lt;a href=&quot;http://www.techsmith.com/camtasia.asp&quot;&gt;Camtasia&lt;/a&gt;. We upload our screencast on Youtube (that's the latest on &lt;a href=&quot;http://www.youtube.com/watch?v=qIkyH5EDOtI&quot;&gt;Mindquilt Eventbrite integration&lt;/a&gt; screencast)&lt;/li&gt;
+	        &lt;li&gt;create the PR: the old dry and boring PR (&lt;a href=&quot;http://www.mindquilt.com/archives/474&quot;&gt;that's our latest&lt;/a&gt;). If you launch in conjunction with a big company, you'll need to send them the PR in advance to get their approval. It can take one week, so plan in advance.&lt;/li&gt;
+		&lt;li&gt;create the blog post: a more informal, personal blog post to present the new product/feature to your readers&lt;/li&gt;
+		&lt;li&gt;create the &lt;strong&gt;landing page&lt;/strong&gt;: that's a 1-page explanation of the product or feature. PR, blog post and (optionally) advertisement will point to this page&lt;/li&gt;
+		&lt;li&gt;create a help/tutorial site (if applicable): a more detailed explanation of the new product or feature&lt;/li&gt;
+		&lt;li&gt;prepare the list of bloggers/industry analysts/influential people to notify... you'll use the list later&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;strong&gt;3-4 business days before the launch&lt;/strong&gt;
+
+	&lt;p&gt;Now everything is ready (PR, blog post, pages... and the product!).&lt;/p&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;Prepare the blog and website, saving the pages as draft&lt;/li&gt;
+		&lt;li&gt;Setup analytics (&lt;a href=&quot;http://www.google.com/analytics&quot;&gt;Google Analytics&lt;/a&gt; and &lt;a href=&quot;http://www.kissmetrics.com/&quot;&gt;Kissmetrics&lt;/a&gt; are my favorite right now)&lt;/li&gt;
+		&lt;li&gt;Reach the list of bloggers/influential people and inform them of the launch, specifying the release date&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;strong&gt;Launch day&lt;/strong&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;Publish all the web pages (PR, blog, landing pages, tutorials, screencast)&lt;/li&gt;
+		&lt;li&gt;Post links to Twitter, facebook, Linkedin (and ask people to retweet!)&lt;/li&gt;
+		&lt;li&gt;Notify your customers via email of the new product/functionality (you can wait a few days for that, no hurry)&lt;/li&gt;
+		&lt;li&gt;Relax...&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;In summary, there's some work to do. But after a few attempts, I think we're getting better at it, and more organized. Practice makes perfect!&lt;/p&gt;
+
+	&lt;hr/&gt;
+
+	&lt;p&gt;What about you? What are your tips and tricks for a perfect marketing launch?&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/10/12/product-launch-a-checklist/</link>
+          <guid>http://www.diotalevi.com/2010/10/12/product-launch-a-checklist/</guid>
+        </item>
+        <item>
+            <title>On competition (and Opzi, and Techcrunch)</title>
+            <pubDate>Tue, 28 Sep 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;On competition (and Opzi, and Techcrunch)&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-09-28 12:00:00&quot;&gt;28th September 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-09-28 12:00:00&quot;&gt;28th September 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;a href=&quot;http://www.gapingvoidgallery.com/product_info.php?products_id=1618&amp;osCsid=umkc5osod7if4qgntu30tmsbd7&quot;&gt;&lt;img src=&quot;http://dl.dropbox.com/u/1964762/diotalevi.com/images/google-goldfish.jpeg&quot;/&gt;&lt;/a&gt;
+
+	&lt;p&gt;When you woke up in the morning and you find no less than 5 emails asking you to have a look at a link, you usually have to be worried. That's the link &lt;a href=&quot;http://techcrunch.com/2010/09/27/opzi-a-quora-for-the-enterprise/&quot;&gt;Opzi: A Quora for the Enterprise&lt;/a&gt;. (btw, thanks for sending me the link!)&lt;/p&gt;
+
+	&lt;p&gt;So, as of today, it seems that &lt;a href=&quot;http://www.mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt; has an official competitor. And a powerful one! for many reasons&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;it's backed by &lt;a href=&quot;http://en.wikipedia.org/wiki/Ron_Conway&quot;&gt;Ron Conway&lt;/a&gt; (through SV Angel), arguably the most successful angel all-time&lt;/li&gt;
+		&lt;li&gt;... and by many other angels (also &lt;a href=&quot;http://paulbuchheit.blogspot.com/&quot;&gt;Paul Bucheit&lt;/a&gt; of Gmail's fame, the closest thing to my-personal-hero), for a 1M$ total seed round&lt;/li&gt;
+		&lt;li&gt;it's a &lt;a href=&quot;http://ycombinator.com/&quot;&gt;YCombinator&lt;/a&gt; company&lt;/li&gt;
+		&lt;li&gt;they managed to go on &lt;a href=&quot;http://techcrunch.com/&quot;&gt;Techcrunch&lt;/a&gt; and &lt;a href=&quot;http://disrupt.techcrunch.com/2010-sf/&quot;&gt;Disrupt&lt;/a&gt; even before launching&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;So should I be worried? That was my shower time question.&lt;/p&gt;
+
+	&lt;p&gt;Certainly &lt;a href=&quot;http://www.opzi.com&quot;&gt;Opzi&lt;/a&gt; is going to jump in the market aggressively. They have a lot of connections in the industry, and they managed to have such a big press release without revealing the product to the general public. That's something that we haven't been able to do that well, even if our product is out since months and we already have customers.&lt;/p&gt;
+
+	&lt;p&gt;However, the more I think about it, the more I realise that it's actually a good thing.&lt;/p&gt;
+
+	&lt;p&gt;The reality is, even if there is really a small number of &quot;Enterprise Q&amp;A&quot; platforms out there, there's a lot of competition. &lt;/p&gt;
+
+	&lt;p&gt;Pretty much every knowledge management software (consider also wikis, collaboration tools, forums, ...) offers a solution to the &lt;a href=&quot;http://www.mindquilt.com/archives/257&quot;&gt;knowledge transfer&lt;/a&gt; problem. The problem is, how do you convince/educate customers that a Q&amp;A platform is better than a wiki/forum/anytool to solve this problem? &lt;/p&gt;
+
+	&lt;p&gt;That's hard. There's a lot of effort there. Talking to each and every (potential or real) customer, getting their feedbacks and doubts, improving/clarifying/simplifying  the software. I'm glad Opzi will start to work on that with us.&lt;/p&gt;
+
+	&lt;p&gt;Than there's the advantage of having another player to compare us with. So far, besides the obvious &lt;a href=&quot;http://www.quora.com&quot;&gt;Quora&lt;/a&gt;, &lt;a href=&quot;http://www.vark.com&quot;&gt;Aardvark&lt;/a&gt; and &lt;a href=&quot;http://www.stackoverflow.com&quot;&gt;Stackoverflow&lt;/a&gt; (all consumer products), we haven't had any similar enterprise Q&amp;A player to compare with. &lt;/p&gt;
+
+	How do you address privacy concerns inside the company (divisions/departments/management/confidential-questions)? &lt;br/&gt;
+	How do you connect with other enterprise platforms?&lt;br/&gt; 
+	How do you &quot;map&quot; a question and answer platform with business processes?&lt;br/&gt;
+	How do you make your system &quot;learn&quot; from previous knowledge?&lt;br/&gt;
+	How do you spread your product virally, without losing your &quot;enterprise&quot; nature?&lt;br/&gt;
+
+	&lt;p&gt;We've found our answers to all these problems, and coded them in Mindquilt. But they're not necessarily the best answers; there's a lot of trial and error there. It will be interesting to learn about Opzi's answers.&lt;/p&gt;
+
+	&lt;p&gt;Finally, that's a validation of the idea &lt;a href=&quot;http://www.linkedin.com/in/danieledwardkim/&quot;&gt;Daniel&lt;/a&gt; and I had almost a year ago. There're a lot of solutions to the knowledge transfer problem out there, but they're all sub-optimal. You can have all the documentation, wiki pages, knowledge base in your company, but the most natural way for people to access this knowledge is by asking questions. And the most straightforward way to solve the problem, is to answer those questions.&lt;/p&gt;
+
+	So, all in all, it's good to see Opzi coming out. Very curious to see their product live.
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/09/28/on-competition-and-opzi-and-techcrunch/</link>
+          <guid>http://www.diotalevi.com/2010/09/28/on-competition-and-opzi-and-techcrunch/</guid>
+        </item>
+        <item>
+            <title>Usability tests for startups</title>
+            <pubDate>Mon, 27 Sep 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Usability tests for startups&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-09-27 12:00:00&quot;&gt;27th September 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-09-27 12:00:00&quot;&gt;27th September 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;As &lt;a href=&quot;http://www.alistapart.com/authors/c/danachisnell&quot;&gt;Dana Chisnell&lt;/a&gt; has written is her good article &lt;a href=&quot;http://www.alistapart.com/articles/usability-testing-demystified/&quot;&gt;Usability Tests Demystified&lt;/a&gt;:&lt;/p&gt;
+
+	&lt;blockquote&gt;
+	There seems to be this idea going around that usability testing is bad, or that the cool kids dont do it. That its old skool. That designers dont need to do it.
+	&lt;/blockquote&gt;
+
+	&lt;p&gt;Now I don't know if that's really a common idea, but it's certainly true that usability tests are often overlooked in startups. And the most common reason is that many startups don't have usability experts in their team, or the budget to hire one. That's certainly the case for many bootstrapped company like &lt;a href=&quot;http://www.mindquilt.com&quot;&gt;us&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;So how to improve your application usability?&lt;/p&gt;
+
+	&lt;p&gt;Let's start with four simple suggestions.&lt;/p&gt;
+
+	&lt;strong&gt;1. Ask non-technical people to use your application&lt;/strong&gt;
+
+	&lt;p&gt;That's such a trivial suggestion that I wasn't actually sure whether to include it or not. But it is often overlooked.&lt;/p&gt;
+
+	&lt;p&gt;There are some common usability mistakes that a non-technical user will spot immediately like&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;Does the user understand immediately how to use the application when he signs up? Does he need a tutorial first?&lt;/li&gt;
+		&lt;li&gt;Are all the terms easy to understand? We tend to over-use technical jargon which &quot;normal people&quot; simply don't know.&lt;/li&gt;
+		&lt;li&gt;Is the Help page accessible? Does it cover all the common questions?&lt;/li&gt;
+		&lt;li&gt;Does the user immediately understand how to access the application functionality? is there any particular feature/information he cannot really &quot;see&quot;?
+	&lt;/ul&gt;
+
+	&lt;strong&gt;2. Create click heatmap of your application&lt;/strong&gt;
+
+	&lt;p&gt;Use a framework like &lt;a href=&quot;http://www.labsmedia.com/clickheat/index.html&quot;&gt;Clickheat&lt;/a&gt; to analyse user clicks in the application. What are the most clicked features of your application?
+	Is there any important feature that is virtually ignored by users? That's a common mistake. A lot of times we put important links/information in places that are actually &quot;invisible&quot; to the casual users, so nobody will use it!&lt;/p&gt;
+
+	&lt;strong&gt;3. Watch user navigation&lt;/strong&gt;
+
+	&lt;p&gt;I recently discovered a great service called &lt;a href=&quot;http://userfly.com/&quot;&gt;Userfly&lt;/a&gt; that record user navigation in your application. Check it out because it's really impressive.&lt;/p&gt;
+
+	&lt;blockquote&gt;
+	userfly.com provides instantaneous web user studies by recording user visits and letting you play them back to see every mouse movement, click, and form interaction
+	&lt;/blockquote&gt;
+
+	&lt;p&gt;You can use Userfly for free for a limited number of user recording, and it provides valuable information.&lt;/p&gt;
+
+	&lt;strong&gt;4. Use Mechanical Turk or Loop11.com to have real people feedback&lt;/strong&gt;
+
+	&lt;p&gt;If you want to collect a significant number of usage feedback, set up a task on &lt;a href=&quot;https://www.mturk.com/mturk/welcome&quot;&gt;Amazon Mechanical Turk&lt;/a&gt; or &lt;a href=&quot;http://loop11.com&quot;&gt;Loop11.com&lt;/a&gt;. In both cases, for a minimal investment (the time to plan the tests, plus a few hundreds dollars) you will be able to collect a thousand of feedbacks.&lt;/p&gt;
+
+	&lt;hr/&gt;
+
+	&lt;p&gt;What's your experience in usability tests? Do you have any tricks to have quality usability test on budget?&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/09/27/usability-tests-for-startups/</link>
+          <guid>http://www.diotalevi.com/2010/09/27/usability-tests-for-startups/</guid>
+        </item>
+        <item>
+            <title>Austin Startup Weekend, my review</title>
+            <pubDate>Wed, 15 Sep 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Austin Startup Weekend, my review&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-09-15 12:00:00&quot;&gt;15th September 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-09-15 12:00:00&quot;&gt;15th September 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+
+	&lt;p&gt;Last weekend I attended my first &lt;a href=&quot;http://startupweekend.org/&quot;&gt;Startup Weekend&lt;/a&gt; here in Austin. I admit I was a bit skeptical before starting it, having read some critic reviews in the past (sorry, I cannot find any link at the moment), and knowing how difficult it can be to get together a group, agree on an idea *and* work on it in 54 hours. Add to that a busy week (&lt;a href=&quot;http://mindquilt.com/&quot;&gt;Mindquilt&lt;/a&gt; work, and moving to the new house), and you can understand why I had a few &quot;why exactly am I doing also that?&quot; moments before the Friday night event kickoff.&lt;/p&gt;
+
+	&lt;p&gt;It turned out it was a great idea.&lt;/p&gt;
+
+	&lt;p&gt;So a Startup Weekend, for those of you who have never attended, is basically divided in three phases&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;strong&gt;initial pitches and ideas selection.&lt;/strong&gt; On Friday night anybody can pitch his idea (60-90 second pitch to the audience).Ideas are then voted and the best x ideas (10 in our case) are given the green light. There is anyway the possibility to work of one of the other ideas, if the leader can put together a team to work on that&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;execution&lt;/strong&gt;. Every group defines a minimum viable product, and implements it during the weekend&lt;/li&gt;
+		&lt;li&gt;&lt;strong&gt;pitch to investors&lt;/strong&gt;. At the end of the weekend all the projects are presented to VCs and business angels (usual 10 minute pitches)&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;My experience last weekend is that the first and third phase have been absolutely great. We had more than 30 proposals on Friday night (I pitched my idea for a GMail plugin to find partners to exchange emails in foreign languages), a good mixture of clever, funny and crazy ideas. In the same way, also the pitches to investors were very interesting for the feedback received from them.&lt;/p&gt;
+
+	&lt;p&gt;The execution part is more controversial. Some ideas can be implemented easily in a 2 days, in some other cases you can't even start to implement it. Some projects were actually based on already existent products or prototypes, so there wasn't much technical work to do, but more marketing/PRs.&lt;/p&gt;
+
+	&lt;p&gt;Anyway, looking it from a learning perspective, it was just a great experience that I'd recommend to everybody.&lt;/p&gt;
+
+	&lt;p&gt;Some suggestions if you are going to attend it:&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;pitch your idea on Friday night. Any idea: the craziest, the easiest, the sexiest. That's a great learning experience, and it will help to start networking with people. Don't be shy!&lt;/li&gt;
+		&lt;li&gt;the chances you will walk away with a million dollar startup on Monday are negligible. Fun and learning are the biggest takeaways, keep that always in mind&lt;/li&gt;
+		&lt;li&gt;go for simple ideas if you want to hack a working prototype in a day or two&lt;/li&gt;
+		&lt;li&gt;consider non-IT ideas! Look for instance to the great &lt;a href=&quot;http://www.youtube.com/watch?v=iydJb7GoqFY&quot;&gt;keg jersey presentation&lt;/a&gt;. There are many non-strictly-IT business that can be started during a weekend, like organising a conference or event, marketing gadgets, ...&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;Finally, some links to the youtube videos of the presentations&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=ioYXRDlXsUM&quot;&gt;Kiimby&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=TjetNOX7wKA&quot;&gt;RestaurNotes&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=jDCaLC-qR44&quot;&gt;Instavents&lt;/a&gt; (winner)&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=5m3mcKGAQ3s&quot;&gt;CaringLife&lt;/a&gt; (my team)&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=MV5uky65X6A&quot;&gt;ProdWar&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/09/15/austin-startup-weekend-my-review/</link>
+          <guid>http://www.diotalevi.com/2010/09/15/austin-startup-weekend-my-review/</guid>
+        </item>
+        <item>
+            <title>Startup of a Startup, basic infrastructure</title>
+            <pubDate>Mon, 30 Aug 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Startup of a Startup, basic infrastructure&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-08-30 12:00:00&quot;&gt;30th August 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-08-30 12:00:00&quot;&gt;30th August 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+
+	&lt;p&gt;Today, while reading &lt;a href=&quot;http://techcrunch.com/2010/08/29/founder-institute-how-to-launch-in-10-steps-with-less-than-2000/&quot;&gt;How to launch in 10 steps with less than $2000&lt;/a&gt;, I realised I could put to better use all the notes and experiences I have accumulated in the last few months working at &lt;a href=&quot;http://mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt;. In fact the linked article, while presenting some interesting ideas (like the use of &lt;a href=&quot;http://99designs.com&quot;&gt;99designs&lt;/a&gt; for logo design), seems to ignore many of the important things/tools you need to get familiar if you are serious about doing business. It turns out that starting a company is something more than choosing a domain and creating a website.&lt;/p&gt;
+
+	&lt;p&gt;So, without further ado, that's a proven basic infrastructure to &quot;startup your startup&quot;. It will add up just a few dollars to the above mentioned $2000, but you won't regret that.&lt;/p&gt;
+
+
+	&lt;strong&gt;Domain&lt;/strong&gt;
+
+	&lt;p&gt;Yes, you will need one or more domains. I can't suggest any particular registrar, just pick one.&lt;/p&gt;
+
+	&lt;strong&gt;Email and collaboration&lt;/strong&gt;
+
+	&lt;p&gt;Do yourself a favour and sign up at &lt;a href=&quot;http://www.google.com/apps/intl/en/business/index.html&quot;&gt;Google Apps for Business&lt;/a&gt;; for small businesses it's free, and gives you a lot. The Email service is top-notch (you all know GMail?), and you will use it to create email accounts for all the employees, as well as the usual email alias (sales@.., support@..., feedback@...); also the Calendar service will be useful to share events and meetings.&lt;/p&gt;
+
+	&lt;p&gt;On the downside, Google Doc is pretty limited, and Google Site (the kind-of-wiki) is definitely bad. But I'll give you alternatives!&lt;/p&gt;
+
+	&lt;strong&gt;Document creation and sharing&lt;/strong&gt;
+
+	&lt;p&gt;The reason I dislike Google Docs is that it's quite difficult to create nice documents with it; the font choice is limited and the functionalities pretty basic. You don't want to present your startup to potential investors using a boring template and Arial font, do you? My suggestion is to use a real word-processor (meaning &lt;a href=&quot;http://www.apple.com/iwork/&quot;&gt;iWork&lt;/a&gt; if you are a Mac user) and use the great &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt; to share documents among the organization. Dropbox is also free up to 2GB of storage&lt;/p&gt;
+
+	&lt;strong&gt;VPS&lt;/strong&gt;
+
+	&lt;p&gt;In an ideal world, you could use all online services (a-la-Google-Apps) for your business. However, it gives you a bit more flexibility to have your own Virtual Private Server; not to mention that it is also very cheap. I have good experiences with &lt;a href=&quot;http://www.linode.com&quot;&gt;Linode&lt;/a&gt; and &lt;a href=&quot;http://slicehost.com&quot;&gt;Slicehost&lt;/a&gt;, and I'd recommend both.&lt;/p&gt;
+
+	&lt;p&gt;For setting up and running some basic services (let's say version control, website, collaboration tool, crm) you won't need more than a VPS with 512MB of ram.&lt;/p&gt;
+
+	&lt;strong&gt;Collaboration tool/Issue tracking&lt;/strong&gt;
+
+	&lt;p&gt;If you produce software, you cannot work without a good issue tracker. A free, online solution is &lt;a href=&quot;https://www.pivotaltracker.com/&quot;&gt;Pivotal Tracker&lt;/a&gt;. It works reasonably well for small projects and teams, but I find the interface very confusing, especially when the number of issues grows.&lt;/p&gt;
+
+	&lt;p&gt;My tool of choice at the moment is &lt;a href=&quot;http://www.redmine.org/&quot;&gt;Redmine&lt;/a&gt;; it assumes you are willing and happy to go through an unreasonably complicated setup, but after that it pays off with many features. It also has a wiki: nothing exceptional, but usable (differently from Google Sites, who was clearly designed *without* considering usability).&lt;/p&gt;
+
+	&lt;strong&gt;CRM&lt;/strong&gt;
+
+	&lt;p&gt;So, first of all, do you need a CRM? Ideally, if your company employees just you, and you are a very organised person, no. In all other cases, yes.&lt;/p&gt;
+
+	&lt;p&gt;When you talk to customers or potential investors, you want to remember all the conversations you had. And you want to avoid one of your cofounder to inadvertently contact somebody you have already talked to. &lt;a href=&quot;http://salesforce.com&quot;&gt;Salesforce&lt;/a&gt; is the obvious choice here, but an expensive one. My suggestion is to use your new VPS to install &lt;a href=&quot;http://www.sugarcrm.com/&quot;&gt;SugarCRM&lt;/a&gt;; it's free, open source, and it has a nice one-click installer.&lt;/p&gt;
+
+	&lt;p&gt;On the downside, it's not a simple product, especially if you are not a full-time salesman; but spending some time to learn it can give some more structure to your sales effort.&lt;/p&gt;
+
+	&lt;strong&gt;Blog/Website&lt;/strong&gt;
+
+	&lt;p&gt;My suggestion here is to install &lt;a href=&quot;http://www.wordpress.org&quot;&gt;Wordpress&lt;/a&gt; on your VPS, and stick with it. There's nothing you can't do with Wordpress, and it's so popular you will be able to find many professional designer who can customise the template for a few hundred dollars/euros.&lt;/p&gt;
+
+	&lt;p&gt;What about you? What's your list of fundamental tools for your business?&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/08/30/startup-of-a-startup-basic-infrastructure/</link>
+          <guid>http://www.diotalevi.com/2010/08/30/startup-of-a-startup-basic-infrastructure/</guid>
+        </item>
+        <item>
+            <title>Is there such thing as a Startup Technology Stack?</title>
+            <pubDate>Sun, 15 Aug 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Is there such thing as a Startup Technology Stack?&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-08-15 12:00:00&quot;&gt;15th August 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-08-15 12:00:00&quot;&gt;15th August 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;a title=&quot;Ruby on Rails by nimbu, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nimbupani/224494479/&quot;&gt;&lt;img src=&quot;http://farm1.static.flickr.com/83/224494479_67c3bd2172_m.jpg&quot; alt=&quot;Ruby on Rails&quot; width=&quot;240&quot; height=&quot;180&quot; /&gt;&lt;/a&gt;
+
+	Photo of &lt;a href=&quot;http://www.flickr.com/photos/nimbupani/&quot;&gt;Nimbu&lt;/a&gt;
+
+	&lt;p&gt;Lately I've been talking and reading a lot about startups and product development, and two independent discussions have caught my attention. First, talking with an analyst working for a VC, he told me they don't &quot;usually invest in Java company&quot;, because they feel Ruby, Python, C++ or (even!) .Net are more interesting for seed-stage startups. You can understand I wasn't that happy about his words, since &lt;a href=&quot;http://www.mindquilt.com&quot;&gt;we&lt;/a&gt; are fundamentally a Java company... but anybody is entitled of his own opinion.&lt;/p&gt;
+
+	&lt;p&gt;The second interesting discussion started around &quot;&lt;a href=&quot;http://www.cleverkoala.com/2010/08/why-your-startup-should-be-using-mongodb/&quot;&gt;Why your startup should be using MongoDB&lt;/a&gt;&quot;, on the merits of NoSQL database used in startups.&lt;/p&gt;
+
+	&lt;p&gt;So I went back to our technology choices. Our stack is currently composed by&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;HTML/JSP + JS (mainly &lt;a href=&quot;http://jquery.com&quot;&gt;JQuery&lt;/a&gt;) for the frontend&lt;/li&gt;
+		&lt;li&gt;Java Web Application (our own REST framework + &lt;a href=&quot;http://code.google.com/p/google-guice/&quot;&gt;Guice&lt;/a&gt; + &lt;a href=&quot;http://mindquilt.com&quot;&gt;Hibernate&lt;/a&gt;)&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://jetty.codehaus.org/jetty/&quot;&gt;Jetty Web Server&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/&quot;&gt;Apache Solr&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://mysql.com&quot;&gt;MySQL&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;some minor scripting in Python&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;That's a pretty typical enterprise Java application architecture, derived by our multi-year experience in consulting and contracting for banks, telcos and IT companies.&lt;/p&gt;
+
+	&lt;p&gt;Now I don't think I have to prove our stacks works, scales and performs well; there are plenty of enterprises out there running with similar systems, plenty of success stories, and I have seen my share of good and bad projects.The real question is: is it the right stack for a startup? To avoid the usual &quot;it depends&quot; answer, let's talk about the requirements of a startup (&lt;a href=&quot;http://en.wikipedia.org/wiki/Pareto_principle&quot;&gt;Pareto law&lt;/a&gt; apply here)&lt;/p&gt;
+	&lt;ol&gt;
+		&lt;li&gt;Release early and often.&lt;/li&gt;
+		&lt;li&gt;Keep pumping out features&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html&quot;&gt;Do customer development&lt;/a&gt; from day 1&lt;/li&gt;
+		&lt;li&gt;Refactor the business model as often you refactor the code (ok, a bit less frequently)&lt;/li&gt;
+	&lt;/ol&gt;
+
+	&lt;p&gt;In other words, it seems like the startup scenario is quite different from the usual enterprise software scenario. At least, that's what I discovered in my experience.&lt;/p&gt;
+
+	&lt;p&gt;So how our stack copes with this situations?&lt;/p&gt;
+
+	&lt;strong&gt;The good&lt;/strong&gt;
+
+	&lt;p&gt;Having a REST framework really is the best choice we did. It draws a clean and definite line between the frontend and the backend, and give us the possibility, if we want, to migrate the backend to a different implementation or technology, one URL at a time.&lt;/p&gt;
+
+	&lt;strong&gt;The good-ish&lt;/strong&gt;
+
+	&lt;p&gt;I've been developing Java application for the past ten years. I know I'm very productive with it, especially when I keep it simple (&lt;a href=&quot;http://en.wikipedia.org/wiki/KISS_principle&quot;&gt;KISS&lt;/a&gt;) and don't overindulge with frameworks and overdesigned solutions. I know it would take a long time to be equally productive with another language.&lt;/p&gt;
+
+	&lt;p&gt;However, I also recognize that sometimes dynamic languages can be, guess what, ...more dynamic. More compact code, faster to write and to maintain when the domain is small. I'm learning more of Python every day, and I'm not blind to its potential when it comes to rapid development.&lt;/p&gt;
+
+	&lt;p&gt;I definitely don't see us migrating to it (or to Ruby, for what that matters) anytime soon, but I can foresee we might want to write some parts of the application with it soon. The REST approach will make this transition easy.&lt;/p&gt;
+
+	&lt;strong&gt;The ugly ugly ugly&lt;/strong&gt;
+
+	&lt;p&gt;As Paul Graham suggests, we try to &lt;a href=&quot;http://www.paulgraham.com/startuplessons.html&quot;&gt;pump out features&lt;/a&gt; and bugfixes as fast as we can. That means changing the DB schema. That means migrations. Ugh&lt;/p&gt;
+
+	&lt;p&gt;We cannot honestly do otherwise. The times of startups raising 5M$, developing in-house the product and finally releasing after 18 months are gone for good; besides that, the last time I checked nobody had given us 5M$, so we don't have this opportunity! We deployed a production version after less then 3 months of part time development (it was ugly, thanks for asking!). We went to customers and investors, we got feedback, we added features. And then again, and again.&lt;/p&gt;
+
+	&lt;p&gt;Our data layer is what slows us down. We try to concentrate all the changes in the data model (and therefore in the DB schema) in a unique release, so that we don't migrate so often. And we postpone big data layer refactorings because they will cost us a lot.&lt;/p&gt;
+
+	&lt;p&gt;In this case, using a schema-less database (like &lt;a href=&quot;http://www.mongodb.org/&quot;&gt;mongodb&lt;/a&gt;, but that's not the only option) would save us a lot of time. I'm currently prototyping with mongodb and &lt;a href=&quot;http://code.google.com/p/redis/&quot;&gt;redis&lt;/a&gt;, and the flexibility they give to developers is huge. (And notice I'm not talking about performances because it wouldn't be fair to relational database which offer many more functionalities).&lt;/p&gt;
+
+	&lt;strong&gt;Summary&lt;/strong&gt;
+
+	&lt;p&gt;My impression so far is that there're some fundamental differences between enterprise technology stacks and startup technology stacks. The former are targeted to build applications whose scope and mission are somewhat clear (of course there are a lot of change requests also in enterprise software development, but the final goal is clear); the latter are targeted to build applications that &quot;explore&quot; new features, new concepts and new business models.&lt;/p&gt;
+
+	&lt;p&gt;The former are targeted to write code that will last 3-5 years; the latter to write code what will most probably not survive more than a year (because the company will fail, will pivot, or will rewrite it once successful).&lt;/p&gt;
+
+	&lt;p&gt;Broadly, a Startup Technology Stack (tailored to my needs and skill) is currently composed by&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;HTML + JS in the fronted&lt;/li&gt;
+		&lt;li&gt;Java Web Application (and/or Python) in the backend, using a REST architecture&lt;/li&gt;
+		&lt;li&gt;Document-based, schema less database&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;&lt;em&gt;What's your take on this? Do you have a Startup Technology Stack?&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/08/15/is-there-such-thing-as-a-startup-technology-stack/</link>
+          <guid>http://www.diotalevi.com/2010/08/15/is-there-such-thing-as-a-startup-technology-stack/</guid>
+        </item>
+        <item>
+            <title>Mindquilt updates</title>
+            <pubDate>Sat, 24 Jul 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+   &lt;h2 class=&quot;entry-title&quot;&gt;Mindquilt updates&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-07-24 12:00:00&quot;&gt;24th July 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-07-24 12:00:00&quot;&gt;24th July 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;So, many people are asking me for updates, or to have a closer look at &lt;a href=&quot;http://www.mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;img class=&quot;alignnone size-medium wp-image-110&quot; title=&quot;betamindquilt&quot; src=&quot;http://dl.dropbox.com/u/1964762/diotalevi.com/images/mindquilt-screen.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;214&quot; /&gt;
+
+	&lt;p&gt;For them, the good news is that our &lt;a href=&quot;http://beta.mindquilt.com&quot;&gt;beta is live&lt;/a&gt; (since more than a month now, actually); the (less good) news is that we are sending out invitations at a slower pace we would like to. It turned out that there are so many activities in running the company (paperwork, marketing, sales, product design, user interface, customer support and plain-old development) that we are constantly overwhelmed by the things to do. We have a plan to improve that anyway! more on that later&lt;/p&gt;
+
+	&lt;p&gt;So, talking about updates.&lt;/p&gt;
+
+	&lt;p&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4009/4706837928_f7e74905d5.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;strong&gt;&lt;span&gt;Photo by &lt;a href=&quot;http://www.flickr.com/people/adunne/&quot;&gt;Alex Dunne&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+	&lt;p&gt;The first, long due update, is about our participation in the &lt;a href=&quot;http://launchpad.e2conf.com/&quot;&gt;Enteprise 2.0 Launchpad&lt;/a&gt;; as good ol Ceasar said &lt;a href=&quot;http://en.wikipedia.org/wiki/Veni,_vidi,_vici&quot;&gt;we came, we saw, and... we came second&lt;/a&gt; (or something like that). &lt;a href=&quot;http://www.flickr.com/photos/adunne/4706837928/sizes/l/in/set-72157624252543430/&quot;&gt;Daniel went on stage&lt;/a&gt; on July 16th to present Mindquilt and, as you can guess from the diabolic grin, he was great. We had good feedbacks and a lot of interest, and 38% of the votes. So close to win.&lt;/p&gt;
+
+	&lt;p&gt;Of course it hurts a bit to loose for a handful of votes, but we were by far the youngest company in the lot.
+	Thats the thing I like of my &lt;a href=&quot;http://www.mindquilt.com/about&quot;&gt;team mates&lt;/a&gt;: we are so excited to present our product and compete in startup competitions that we often forget we are competing against companies with 2-3 years of hard work behind, and hundreds or thousands of customers.&lt;/p&gt;
+
+	&lt;img src=&quot;http://farm1.static.flickr.com/68/177804778_d784ba5887.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;strong&gt;&lt;span&gt;Photo by &lt;a href=&quot;http://www.flickr.com/people/stewied/&quot;&gt;StewieD&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;
+
+
+	&lt;p&gt;Back to Europe, back to coding. We got together in Dusseldorf for a final hackathon before releasing a new beta version. Despite the crazy world cup german days, we were able to release a lot of bug fixes and new features  in the new version, mostly driven by the early feedbacks of our beta and potential customers.
+	We also set up &lt;a href=&quot;http://www.mindquilt.com/blog&quot;&gt;a blog where you can gain more insights on Mindquilt&lt;/a&gt;.&lt;/p&gt;
+
+
+	&lt;p&gt;Shortly after, we participated in the &lt;a href=&quot;http://eu.techcrunch.com/2010/07/16/so-who-won-the-techcrunch-europe-summer-pitch-battle/&quot;&gt;Techcrunch Pitch Battle in London,&lt;/a&gt; hosted by the new &lt;a href=&quot;http://www.techhub.com&quot;&gt;TechHub&lt;/a&gt;. Again a great experience, we made it to the final 8 but not in the top 3. &lt;a href=&quot;http://uk.linkedin.com/in/antongething&quot;&gt;Anton&lt;/a&gt; was on stage this time, and he did a great job.&lt;/p&gt;
+
+	&lt;p&gt;&lt;b&gt;Whats next?&lt;/b&gt; Again, so many things I dont even know where to start.&lt;/p&gt;
+
+	&lt;p&gt;First thing, we have been selected for the &lt;a href=&quot;http://seedcamp.com/pages/london10&quot;&gt;Mini Seedcamp London&lt;/a&gt;. It will be again Anton turn to present Mindquilt in this &lt;a href=&quot;http://eu.techcrunch.com/2010/07/20/teams-released-for-mini-seedcamp-london/&quot;&gt;20-startup-20 competition&lt;/a&gt;, with most of the European VCs and angels as judges. The Mini Seedcamp is next tuesday so check &lt;a href=&quot;http://www.twitter.com/fdiotalevi&quot;&gt;my twitter account for almost-real-time updates&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;Code wise, besides the omnipresent bug fixes, the payment integration (via Paypal) is almost ready; I also worked on the back office part to allow us to gather more usage statistics on the product.&lt;/p&gt;
+
+	&lt;p&gt;The next big topic is enterprise system integration... huge topic, we will as usual go back to our users and potential customers to understand what are the priorities.&lt;/p&gt;
+
+	&lt;p&gt;Finally, we all realised that Mindquilt is taking us every day more time, and we decided to progressively close our consultancy contracts to work full time on it. &lt;a href=&quot;http://de.linkedin.com/in/danieledwardkim&quot;&gt;Daniel&lt;/a&gt; is already 100% on Mindquilt, and flying back to Austin, TX to take care of business in the USA. I'll also end my long-lasting collaboration with ITHR and Vodafone in 3 weeks to dedicate 1(5)0% of my time to this new venture. Pretty exciting eh?&lt;/p&gt;
+
+	&lt;p&gt;Im not sure where I'll be based at the moment. Getting a Visa for the USA seems to be very complicated, so I'll probably be based still in Dusseldorf, with frequent flights to Austin.&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/07/24/mindquilt-updates/</link>
+          <guid>http://www.diotalevi.com/2010/07/24/mindquilt-updates/</guid>
+        </item>
+        <item>
+            <title>Marketing on a shoestring (aka Mindquilt is going to Boston)</title>
+            <pubDate>Thu, 20 May 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Marketing on a shoestring (aka Mindquilt is going to Boston)&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-05-20 12:00:00&quot;&gt;5th May 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-05-20 12:00:00&quot;&gt;5th May 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;So the news is out: &lt;a href=&quot;http://www.mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt; has been selected as one of the four finalists of the &lt;a href=&quot;http://launchpad.e2conf.com/&quot;&gt;Enteprise 2.0 Launchpad&lt;/a&gt;, and we're going to Boston to have our 5 minutes of glory on the stage!&lt;/p&gt;
+
+	&lt;p&gt;It really feels so good to be in the final, especially considered that we were one of the few (the only?) participant who still hasn't publicly released its product. So how could we get there? Here is our recipe: feel free to add your suggestions to improve this short &quot;marketing-on-a-shoestring&quot; checklist!&lt;/p&gt;
+
+	&lt;b&gt;&lt;em&gt;Networking &lt;/em&gt;&lt;/b&gt;
+	&lt;p&gt;That's arguably one of the most important factor. While we have been running in stealth mode for a few months now, we have never been shy to share our project with a number of people. We have showed our presentation to our investors, colleagues, friends, possible partners... a sort of Mindquilt extended family. Investment: a lot of time, but it doesn't seem like work&lt;/p&gt;
+
+	&lt;strong&gt;&lt;em&gt;Video&lt;/em&gt;&lt;/strong&gt;
+	&lt;p&gt;We did the marketing video with &lt;a href=&quot;http://www.telestream.net/screen-flow/overview.htm&quot;&gt;Screenflow&lt;/a&gt;. It's a bit pricey (99$), but very nice tool that gives you both screen capture and basic video editing. We just recorded the audio with a cheap microphone and &lt;a href=&quot;http://audacity.sourceforge.net&quot;&gt;Audacity&lt;/a&gt; and yes, we (ehmm I) messed up a bit, and the audio has a bit too much echo. Oh well, I think it is good enough. Investment: about 2 days + 99$&lt;/p&gt;
+
+	&lt;strong&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/strong&gt;
+	&lt;p&gt;Simply, we twitted (tweetted?) quite a lot. We tried to keep the promotional tweets to an acceptable level, and to have conversations with people. Converse, tweet, retweet. Two weeks ago we had around 40 followers (mostly friends), now are at 120. Investment: a few minutes a day&lt;/p&gt;
+
+	&lt;strong&gt;&lt;em&gt;Facebook&lt;/em&gt;&lt;/strong&gt;
+	&lt;p&gt;Creating a simple promotional Facebook application takes literally minutes, and there are plenty of &lt;a href=&quot;http://www.digital-web.com/articles/building_facebook_applications/&quot;&gt;tutorials&lt;/a&gt; online. I created ours using the standard template, plus a little javascript function to add the Mindquilt badge on the user Wall. Have a look at it at&lt;a href=&quot;http://apps.facebook.com/votemindquilt/&quot;&gt;http://apps.facebook.com/votemindquilt/&lt;/a&gt; (as you can see, it's now a bit broken, but it was working!). Investment: 1 hour&lt;/p&gt;
+
+	&lt;strong&gt;&lt;em&gt;Promotional Website&lt;/em&gt;&lt;/strong&gt;
+	&lt;p&gt;Facebook and Twitter promotions link to &lt;a href=&quot;http://vote.mindquilt.com&quot;&gt;Vote for Mindquilt&lt;/a&gt;, a very simple website I created in an hour. You can see there's no designer hand behind it (she's busy working on the real app), just a white website, font-family: Helvetica Neue, font-weight: 200; these are my designer skills! Investment: 1hour&lt;/p&gt;
+
+	&lt;strong&gt;&lt;em&gt;Funny Badges&lt;/em&gt;&lt;/strong&gt;
+	&lt;p&gt;On &lt;a href=&quot;http://vote.mindquilt.com&quot;&gt;Vote for Mindquilt&lt;/a&gt; you can see our four &quot;funny badges&quot;. Of course, you will need a real designer to do them. We used the badges as a reminder to our twitter and facebook followers to vote for us,  posting one badge per day in the last few days of the poll. Investment: about 2 days of a designer.&lt;/p&gt;
+
+	&lt;strong&gt;&lt;em&gt;Blog&lt;/em&gt;&lt;/strong&gt;
+	&lt;p&gt;We actually didn't blog that much. The reason is I was the only one with a blog before joining Mindquilt, and a pretty abandoned one. Creating a blog just to promote a company (even a cool one :) ) doesn't seem fair to me. I'd rather call it spam. So the only blog post we launched was &lt;a href=&quot;http://diotalevi.com/2010/05/04/introducing-mindquilt/&quot;&gt;in my blog&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;That's all folks. That's not rocket science, but it actually seemed to work. We've got plenty of emails of people asking for more details or a demo, and most importantly we've got our ticket to Boston.&lt;/p&gt;
+
+	Looking back, there're many little details I'd like to change the next time (topic for another blog) but hey, I think it was good enough!
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/05/20/marketing-on-a-shoestring-aka-mindquilt-is-going-to-boston/</link>
+          <guid>http://www.diotalevi.com/2010/05/20/marketing-on-a-shoestring-aka-mindquilt-is-going-to-boston/</guid>
+        </item>
+        <item>
+            <title>Introducing Mindquilt</title>
+            <pubDate>Tue, 04 May 2010 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Introducing Mindquilt&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2010-05-04 12:00:00&quot;&gt;4th May 2010&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2010-05-04 12:00:00&quot;&gt;4th May 2010&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;So now that &quot;little guy&quot; (we couldn't find a better name for him) is out, with his shiny new badge, it is probably the right moment to introduce &lt;a href=&quot;http://www.mindquilt.com&quot;&gt;Mindquilt&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;Mindquilt is the attempt of a few of us to propose an &quot;enterprise&quot; system to make the knowledge flow in an organization agile. The tools we usually use for that can be grouped in two categories:&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;documentation based (wiki, word documents): structured documentation, often difficult to find and almost always outdated&lt;/li&gt;
+		&lt;li&gt;real time (chat, phone): very effective, but intrusive and almost impossible to &quot;capture&quot; in a durable format&lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;What we are trying to build is a system taking the best of the two worlds. Any user can enter questions into the application; these questions are routed, using an intelligent algorithm, to the company experts in the related topics, that can answer them. And all the information flow is recorded and categorized, so that it can be extracted in what we call &quot;Just in Time documentation&quot;.&lt;/p&gt;
+
+	&lt;p&gt;Sound interesting? I hope so. For sure it will sound a bit fuzzy right now.&lt;/p&gt;
+
+	&lt;p&gt;You can have a look at our &lt;a href=&quot;http://www.youtube.com/watch?v=bE2rTicVsWk&quot;&gt;promotional video&lt;/a&gt; for a few more details, or just wait a few more weeks for entering in our private beta.&lt;/p&gt;
+
+	&lt;p&gt;And of course, the best way to know more about Mindquilt is &lt;a href=&quot;http://launchpad.e2conf.com/vote-now/&quot;&gt;to vote us&lt;/a&gt; in the Enterprise 2.0 Launchpad, so that we can show it on stage in Boston.&lt;/p&gt;
+
+	&lt;p&gt;And you can even use &lt;a href=&quot;http://apps.facebook.com/votemindquilt/&quot;&gt;our Facebook app&lt;/a&gt; to add the coolest badge you've ever seen!&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2010/05/04/introducing-mindquilt/</link>
+          <guid>http://www.diotalevi.com/2010/05/04/introducing-mindquilt/</guid>
+        </item>
+        <item>
+            <title>OSGi in the Enterprise</title>
+            <pubDate>Sat, 14 Nov 2009 12:00:00 +0000</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;OSGi in the Enterprise&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-11-14 12:00:00&quot;&gt;14th November 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-11-14 12:00:00&quot;&gt;14th November 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;Brief post from &lt;a href=&quot;http://www.jaxitalia.com/&quot;&gt;JaxItalia 2009&lt;/a&gt; in Milano, during one of the last presentations of this conference. A good conference, nicely organized by &lt;a href=&quot;http://software-support.biz/&quot;&gt;Software and Support&lt;/a&gt;, featuring many international speakers.&lt;/p&gt; 
+
+	&lt;p&gt;Yesterday I did my &quot;OSGi in the Enteprise&quot; presentation, and it is already available on Slideshare.&lt;/p&gt;
+
+	&lt;div style=&quot;width:425px;text-align:left&quot; id=&quot;__ss_2498460&quot;&gt;&lt;a style=&quot;font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/fdiotalevi/osgi-in-the-enterprise&quot; title=&quot;OSGi in the Enterprise&quot;&gt;OSGi in the Enterprise&lt;/a&gt;&lt;object style=&quot;margin:0px&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=osgienterprise-091114053248-phpapp01&amp;rel=0&amp;stripped_title=osgi-in-the-enterprise&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=osgienterprise-091114053248-phpapp01&amp;rel=0&amp;stripped_title=osgi-in-the-enterprise&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;&quot;&gt;View more &lt;a style=&quot;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/&quot;&gt;documents&lt;/a&gt; from &lt;a style=&quot;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/fdiotalevi&quot;&gt;Filippo Diotalevi&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2009/11/14/osgi-in-the-enterprise/</link>
+          <guid>http://www.diotalevi.com/2009/11/14/osgi-in-the-enterprise/</guid>
+        </item>
+        <item>
+            <title>Season of (small) changes</title>
+            <pubDate>Sun, 18 Oct 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Season of (small) changes&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-10-18 12:00:00&quot;&gt;18th October 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-10-18 12:00:00&quot;&gt;18th October 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;table&gt;
+	&lt;tr&gt;
+	&lt;td&gt;
+	&lt;a href=&quot;http://www.flickr.com/photos/fdiotalevi/3998569337/&quot; title=&quot;Paris by --Filippo--, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2482/3998569337_47ba1d737a_m.jpg&quot; width=&quot;174&quot; height=&quot;240&quot; alt=&quot;Paris&quot; /&gt;&lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+	&lt;td&gt;
+	2009 so far has been quite busy: I've started &lt;a href=&quot;http://www.knokode.com&quot;&gt;my own company in January&lt;/a&gt;, but I haven't been able to do much with it being busy contracting for &lt;a href=&quot;http://info.vodafone360.com/&quot;&gt;Vodafone&lt;/a&gt;. &lt;br/&gt;
+	Then I had the opportunity to become every month more involved in the OSGi community, first being elected committer of &lt;a href=&quot;http://felix.apache.org&quot;&gt;Apache Felix&lt;/a&gt;, going to ApacheCon and &lt;a href=&quot;http://www.osgi.org/DevConEurope2009&quot;&gt;OSGi DevCon Europe&lt;/a&gt;, then talking with different people and companies interested in applying this technology in their products. &lt;br/&gt;
+	Finally, I'm getting ready for a busy November when I'll fly to Milano for &lt;a href=&quot;http://www.jaxitalia.com&quot;&gt;JaxItalia&lt;/a&gt; and then to Antwerp for &lt;a href=&quot;http://www.devoxx.com&quot;&gt;Devoxx&lt;/a&gt; in the space of the week. More details on these conferences in future posts (hopefully).
+	&lt;br/&gt;
+	Going to the (small) changes of the title: my resolution for the last trimester of 2009 is to limit the consulting work to (at most) 60% of the time, to focus on some product ideas and on expanding my business. Starting from tomorrow, when I'll enjoy my first &quot;free day&quot; since months.
+	&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/table&gt;
+	&lt;p&gt;A lot to things to figure out yet: how to organize my time, without strict deadlines and clear requirements, and avoid to waste time surfing the net (and playing Farmville :| ). And how to market my ideas, demos and company.&lt;br/&gt;
+	A lot of new stuff, interesting stuff though.&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2009/10/18/season-of-small-changes/</link>
+          <guid>http://www.diotalevi.com/2009/10/18/season-of-small-changes/</guid>
+        </item>
+        <item>
+            <title>Modular Java</title>
+            <pubDate>Thu, 13 Aug 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Modular Java&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-08-13 12:00:00&quot;&gt;13th August 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-08-13 12:00:00&quot;&gt;13th August 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;table&gt;
+	&lt;tr&gt;
+	&lt;td&gt;
+	&lt;a href=&quot;http://www.amazon.com/gp/product/1934356409?ie=UTF8&amp;tag=osgilook-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1934356409&quot;&gt;&lt;img src=&quot;http://www.osgilook.com/wp-content/uploads/2009/08/modular_java.jpg&quot;/&gt;&lt;/a&gt;
+	&lt;/td&gt;
+	&lt;td&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+	&lt;/td&gt;
+	&lt;td&gt;
+	&lt;p&gt;Craig Walls has been so kind to send me the Pdf version of &lt;a href=&quot;http://www.amazon.com/gp/product/1934356409?ie=UTF8&amp;tag=osgilook-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1934356409&quot;&gt;Modular Java: Creating Flexible Applications with OSGi and Spring&lt;/a&gt; some weeks ago. It is actually the first complete book I've read on OSGi; pretty good book, by the way.&lt;/p&gt;
+
+	&lt;p&gt;You can find my review on the &lt;a href=&quot;http://www.osgilook.com/2009/08/13/modular-java-a-review/&quot;&gt;OSGi Look&lt;/a&gt;.&lt;/p&gt;
+	&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2009/08/13/modular-java/</link>
+          <guid>http://www.diotalevi.com/2009/08/13/modular-java/</guid>
+        </item>
+        <item>
+            <title>Where the (OSGi) world is going after Devcon Europe?</title>
+            <pubDate>Sun, 05 Jul 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Where the (OSGi) world is going after Devcon Europe?&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-07-05 12:00:00&quot;&gt;5th July 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-07-05 12:00:00&quot;&gt;5th July 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;table border=&quot;0&quot;&gt;
+	&lt;tbody&gt;
+	&lt;tr&gt;
+	&lt;td&gt;&lt;a title=&quot;Zurich by --Filippo--, on Flickr&quot; href=&quot;http://www.flickr.com/photos/fdiotalevi/3690236444/&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3539/3690236444_007a318e34_m.jpg&quot; alt=&quot;Zurich&quot; width=&quot;240&quot; height=&quot;155&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+	&lt;td&gt;&lt;/td&gt;
+	&lt;td&gt;
+	&lt;p&gt;The latest &lt;a href=&quot;http://www.osgi.org/DevConEurope2009/HomePage&quot;&gt;OSGi Devon Europe&lt;/a&gt; (Zurich, June 22th) has been quite a peculiar conference. &lt;br/&gt;
+	Very small, compared to &lt;a href=&quot;http://www.jazoon.com&quot;&gt;Jazoon&lt;/a&gt;, &lt;a href=&quot;http://www.devoox.com&quot;&gt;Devoxx&lt;/a&gt; or even some italian &lt;a href=&quot;http://www.javaday.it&quot;&gt;JavaDays&lt;/a&gt;; very technical, with solid contents and just a few marketing presentations; and literally packed with news, presentations of new projects and specifications.&lt;br/&gt;
+	&lt;/p&gt;
+
+	&lt;p&gt;In a sense, it was a good representation of the OSGi movement in Europe: small, focused, and tremendously innovative. But maybe lacking some of the fundamental &quot;soft skills&quot; (ability to market ideas and to present innovation to non-geeks in a interesting way) that can make the difference from an excellent technology and a successful one.
+	&lt;/p&gt;
+	&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/tbody&gt;&lt;/table&gt;
+	&lt;p&gt;In any case, here's a list of the most interesting developments in the OSGi world:&lt;/p&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;R4.2 is coming, and with it the &lt;a href=&quot;http://bryanhunt.wordpress.com/2009/06/20/remote-declarative-osgi-services/&quot;&gt;Remote Services&lt;/a&gt; specification (Eclipse ECF and Apache CXF are the first implementations). With Remote Services OSGi won't be considered (finally) just &quot;SOA in a JVM&quot; anymore, but a real distributed technology; another step toward the real &lt;a href=&quot;http://www.slideshare.net/rellermeyer/from-distributed-to-pervasive-osgi&quot;&gt;Pervasive OSGi&lt;/a&gt;.&lt;/li&gt;
+		&lt;li&gt;The &lt;a href=&quot;http://www.slideshare.net/gnodet/osgi-blueprint-services-1622424&quot;&gt;Blueprint Service&lt;/a&gt; specification will standardize the dependency injection mechanism proposed by Spring DM &lt;/li&gt;
+		&lt;li&gt;The &quot;Enterprise Edition&quot; of OSGi will come next year, bringing more interoperability between Java EE components and OSGi&lt;/li&gt;
+		&lt;li&gt;The &quot;Provisioning war&quot; has officially started with the presentation of &lt;a href=&quot;http://incubator.apache.org/ace/&quot;&gt;Apache Ace&lt;/a&gt; and &lt;a href=&quot;http://wiki.eclipse.org/Equinox_p2_Getting_Started&quot;&gt;Eclipse P2&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;Mobile OSGi is coming, and more and more companies are working on that; &lt;a href=&quot;https://developer.sprint.com/site/global/develop/technologies/sprint_titan/p_sprint_titan.jsp&quot;&gt;Sprint Titan&lt;/a&gt;,  &lt;a href=&quot;http://www.prosyst.com/news/news/2009/evo_osgi_android.html&quot;&gt;Prosyst&lt;/a&gt; and &lt;a href=&quot;http://mobility.luminis.nl/nl/home1.html&quot;&gt;Luminis&lt;/a&gt; are paving the way, but something is moving also in the &lt;a href=&quot;http://ezdroid.com&quot;&gt;open source arena&lt;/a&gt;  &lt;/li&gt;
+	&lt;/ul&gt;
+
+	&lt;p&gt;On a personal note, OSGi Devcon has also represented a turning point, since it was the first event I could hand out business cards of my &lt;a href=&quot;http://www.knokode.com&quot;&gt;OSGi consultancy&lt;/a&gt;, and my first OSGi conference after being elected &lt;a href=&quot;http://felix.apache.org&quot;&gt;Apache Felix&lt;/a&gt; committer.
+	&lt;/p&gt;
+	&lt;p&gt;So, a lot of things going on!&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2009/07/05/where-the-osgi-world-is-going-after-devcon-europe/</link>
+          <guid>http://www.diotalevi.com/2009/07/05/where-the-osgi-world-is-going-after-devcon-europe/</guid>
+        </item>
+        <item>
+            <title>Beautiful Architecture</title>
+            <pubDate>Sat, 04 Jul 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Beautiful Architecture&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-07-04 12:00:00&quot;&gt;4th July 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-07-04 12:00:00&quot;&gt;4th July 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;table&gt;
+	&lt;tr&gt;
+	&lt;td&gt;
+	&lt;img src=&quot;http://dl.dropbox.com/u/1964762/diotalevi.com/images/bearch.gif&quot; width=&quot;90&quot; height=&quot;120&quot;/&gt;
+	&lt;/td&gt;
+	&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+	&lt;/td&gt;
+	&lt;td&gt;
+	&lt;b&gt;Beautiful Architecture&lt;/b&gt; is the first book I read of the &quot;Theory in Practice&quot; O'Reilly series. And it's also the most boring, incoherent and useless technical book I've ever read.
+	The chapters, written by different authors, cover the most disparate topics: from operating system to compiler design, from virtualization to web applications, from Gnu Emacs architecture to object oriented programming.
+	&lt;/td&gt;
+	&lt;td&gt;&amp;nbsp;&amp;nbsp;&lt;br/&gt;&amp;nbsp;&amp;nbsp;
+	&lt;/td&gt;
+	&lt;td&gt;&amp;nbsp;
+	&lt;/td&gt;
+	&lt;td&gt;&amp;nbsp;
+	&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/table&gt;
+	&lt;p&gt;All of that, without any clear direction (architecture?): a few chapters reminded me of some of the more abstruse and theoretical academic papers (see f.i &quot;What is Architecture?&quot; and &quot;Object Oriented Versus Functional&quot;), some others go into the low details that honestly I wouldn't expect in an architecture book.
+	I'd save just a few chapters: &quot;Data Grows up: The Architecture of the Facebook Platform&quot; and the first part of &quot;When the Bazaar sets out to build Cathedrals&quot; (about KDE history). Probably just 30 out of 400 pages, obviously not enough to recommend this book.
+	&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2009/07/04/beautiful-architecture-a-review/</link>
+          <guid>http://www.diotalevi.com/2009/07/04/beautiful-architecture-a-review/</guid>
+        </item>
+        <item>
+            <title>Off to Zurich</title>
+            <pubDate>Sat, 20 Jun 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Off to Zurich&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-06-20 12:00:00&quot;&gt;20th June 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-06-20 12:00:00&quot;&gt;20th June 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+
+	&lt;p&gt;Just preparing my stuff, since tomorrow I'll flight in the early morning to Zurich.&lt;/p&gt;
+	&lt;table&gt;
+	&lt;tr&gt;
+	&lt;td width=&quot;300&quot; valign=&quot;top&quot;&gt;
+	The Swiss city in fact will hold the &lt;a href=&quot;http://www.osgi.org/DevConEurope2009/HomePage&quot;&gt;OSGi Devcon Europe&lt;/a&gt; conference, that runs in parallel with &lt;a href=&quot;http://jazoon.com/&quot;&gt;Jazoon&lt;/a&gt;.
+	After attending many big conferences like &lt;a href=&quot;http://www.devoxx.com/display/DV09/Home&quot;&gt;Devoxx&lt;/a&gt;, &lt;a href=&quot;http://www.jazoon.com&quot;&gt;Jazoon&lt;/a&gt;, &lt;a href=&quot;http://apachecon.com&quot;&gt;Apachecon&lt;/a&gt;, I'm really looking forward this small conference. So many things are happening in the OSGi world in these days, and such a small-focused event is ideal to meet all the developers involved. 
+	Some of the topics:
+	&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.osgi.org/DevConEurope2009/Speakers#Rellermeyer&quot;&gt;Distributed OSGi&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.osgi.org/DevConEurope2009/Speakers#Smith&quot;&gt;Persistence with OSGi&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.osgi.org/DevConEurope2009/Speakers#Nodet&quot;&gt;Blueprint service&lt;/a&gt; (standardization of dependecy injection a-la Spring DM)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.osgi.org/DevConEurope2009/Speakers#Rapicault&quot;&gt;Provisioning with Eclipse P2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.osgi.org/DevConEurope2009/Speakers#Offermans&quot;&gt;Provisioning with (the upcoming) Apache Ace&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.osgi.org/DevConEurope2009/Speakers#Seeberger&quot;&gt;Scala &amp; OSGi&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/td&gt;
+	&lt;td&gt;
+	&lt;img src=&quot;http://www.osgi.org/wiki/uploads/DevConEurope2009/devcon-europe-2009.png&quot; alt=&quot;osgi devcon europe&quot; /&gt;
+	&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/table&gt;
+
+	&lt;p&gt;Of course I'll take the opportunity to walk around the city and take some pictures. Last time here, two years ago, I found an extremely hot weather (but I didn't bring my camera with me). Hopefully I'll have some picture to post next week.
+	&lt;/p&gt;
+
+&lt;/div&gt;	</description>
+          <link>http://www.diotalevi.com/2009/06/20/off-to-zurich/</link>
+          <guid>http://www.diotalevi.com/2009/06/20/off-to-zurich/</guid>
+        </item>
+        <item>
+            <title>Berlin, May 23rd</title>
+            <pubDate>Mon, 15 Jun 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Berlin, May 23rd&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-06-15 12:00:00&quot;&gt;15th June 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-06-15 12:00:00&quot;&gt;15th JUne 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/fdiotalevi/sets/72157618699433411/&quot; title=&quot;23. Mai 2009: Deutschland wird 60 by --Filippo--, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3616/3563899244_3dffd49b57.jpg&quot; width=&quot;500&quot; height=&quot;324&quot; alt=&quot;23. Mai 2009: Deutschland wird 60&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2009/06/15/berlin-may-23th-2009/</link>
+          <guid>http://www.diotalevi.com/2009/06/15/berlin-may-23th-2009/</guid>
+        </item>
+        <item>
+            <title>Felix for Android</title>
+            <pubDate>Mon, 01 Jun 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Felix for Android&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-06-01 12:00:00&quot;&gt;1st June 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-06-01 12:00:00&quot;&gt;1st June 2009&lt;/span&gt;)
+   &lt;/div&gt;
+
+	&lt;p&gt;In my &lt;a href=&quot;http://knokode.com&quot;&gt;business blog&lt;/a&gt; I've just posted a brief presentation of &lt;a href=&quot;http://code.google.com/p/felix4android/&quot;&gt;felix4android&lt;/a&gt;, an Apache Felix repackaging that runs on the Android emulator (and, hopefully, on an Android phone!)&lt;/p&gt;
+
+	&lt;p&gt;&lt;a href=&quot;http://code.google.com/p/felix4android/&quot;&gt;Feel free to check it out&lt;/a&gt; and contribute!&lt;/p&gt;
+&lt;/div&gt;</description>
+          <link>http://www.diotalevi.com/2009/06/01/felix4android/</link>
+          <guid>http://www.diotalevi.com/2009/06/01/felix4android/</guid>
+        </item>
+        <item>
+            <title>Bookmarks for April 30th</title>
+            <pubDate>Fri, 01 May 2009 12:00:00 +0100</pubDate>
+          <description>&lt;article class=&quot;hentry&quot;&gt;
+
+   &lt;h2 class=&quot;entry-title&quot;&gt;Bookmarks for April 30th&lt;/h2&gt;
+   
+   &lt;div class=&quot;info&quot;&gt;Published by &lt;span class=&quot;author vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;Filippo Diotalevi&lt;/span&gt;&lt;/span&gt;
+      on &lt;span class=&quot;published&quot; datetime=&quot;2009-05-01 12:00:00&quot;&gt;1st May 2009&lt;/span&gt; 
+      (last update &lt;span class=&quot;updated&quot; datetime=&quot;2009-05-01 12:00:00&quot;&gt;1st May 2009&lt;/span&gt;)
+   &lt;/div&gt;
+      
+   &lt;p&gt;These are my links for April 30th:&lt;/p&gt;
+   &lt;ul&gt;
+   	&lt;li&gt;&lt;a href=&quot;http://www.jroller.com/habuma/entry/pax_construct_from_zero_to&quot;&gt;Pax Construct from zero to OSGi&lt;/a&gt; - Using Pax Construct to quickstart your OSGi application&lt;/li&gt;
+   &lt;/ul&gt;
+&lt;/article&gt;
+</description>
+          <link>http://www.diotalevi.com/2009/05/01/bookmarks-for-april-30th/</link>
+          <guid>http://www.diotalevi.com/2009/05/01/bookmarks-for-april-30th/</guid>
+        </item>
+    
+  </channel>
+</rss>

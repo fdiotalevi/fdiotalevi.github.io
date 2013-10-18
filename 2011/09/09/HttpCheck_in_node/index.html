@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>diotalevi.com</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="/css/main.css">
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>        
+    </head>
+    <body>
+      <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container site-wide">
+          <div class="navbar-justify navbar-collapse">
+            <ul class="nav navbar-nav">
+              <li><a href="/">Home</a></li>
+                <li><a href="/pages/about/">About</a></li>
+                              <li><a href="/pages/archive/">Archive</a></li>
+                              <li><a href="/pages/cv/">Curriculum</a></li>
+                            
+                <li><a href="/rss.xml">Feed</a></li>
+              </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="mainbody">
+                
+        <article class="hentry">
+
+   <h2 class="entry-title">HttpCheck in node.js</h2>
+   
+   <div class="info">Published by <span class="author vcard"><span class="fn">Filippo Diotalevi</span></span>
+      on <span class="published" datetime="2011-09-09 12:00:00">9th September 2011</span> 
+      (last update <span class="updated" datetime="2011-09-09 12:00:00">9th September 2011</span>)
+   </div>
+
+  <p>
+  One of the most useful tools when you develop mobile portals is a simple web page to check the headers your browser is sending to the server. Which User-Agent? Accept-Language? Accept-Encoding? Accept-Charset?
+  </p>
+  <p>
+  A good opportunity to write a tiny node.js application (with just a bit of <a href='http://documentcloud.github.com/underscore/'>Underscore</a> magic).
+  </p>
+  <!--more-->
+  <pre class="prettyprint language-js code">
+  var http = require('http'), 
+      _ = require('./underscore'),
+      port = process.env.PORT || 3000;
+
+  var FullResponse = function(req) {
+
+    var blanks = "                                   ";
+    var fields = {"url": req.url, "method": req.method, "httpVersion": req.httpVersion, 
+                "headers": req.headers, "data": ""};  
+      
+    var format = function(key, value, indent) {    
+      if (_.isString(value))
+        var valuePart = value+"\n";
+      else
+        var valuePart = "\n" + _.reduce(_.keys(value), function(sum, it) {  
+          return sum + format(it, value[it], indent+1);  }, 
+          "");
+            
+      return blanks.substring(0, indent * 2) + key+": " + valuePart;
+    }        
+    
+    this.addData = function(data) {
+      fields["data"] += data.toString("utf8");
+    }
+    
+    this.printOut = function() {        
+      return format("response", fields, 0);
+    }
+    
+  }
+
+  http.createServer(function (req, res) {
+    res.writeHead(200, {'Content-Type': 'text/plain'});
+    var response = new FullResponse(req);  
+    req.on("data", function(it) {
+      response.addData(it);
+    });  
+    req.on("end", function() {
+      res.end(response.printOut());  
+    });  
+  }).listen(port);
+  console.log('Server running at port '+port);
+
+  </pre>
+  <p>
+  Full source code on <a href='https://github.com/fdiotalevi/httpcheck'>Github</a>, the application is running at <a href='http://httpcheck.herokuapp.com'>http://httpcheck.herokuapp.com</a>.
+  </p>
+</article>
+
+        </div>
+
+      </div><!-- /.container -->
+    </body>
+</html>
