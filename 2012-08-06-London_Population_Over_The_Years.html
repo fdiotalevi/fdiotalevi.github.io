@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="/css/main.css">
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>        
+    </head>
+    <body>
+      <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Project name</a>
+          </div>
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="/">Home</a></li>
+                <li><a href="/pages/1_archive.html">Archive</a></li>
+                              <li><a href="/pages/2_about.html">About</a></li>
+                              <li><a href="/pages/3_cv.html">Curriculum</a></li>
+                            
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+
+      <div class="container">
+
+        <div class="mainbody">
+                
+        <article class="hentry">
+
+   <h2 class="entry-title">London Population Over the Years</h2>
+   
+   <div class="info">Published by <span class="author vcard"><span class="fn">Filippo Diotalevi</span></span>
+      on <span class="published" datetime="2012-08-06 12:00:00">6th August 2012</span> 
+      (last update <span class="updated" datetime="2012-08-06 12:00:00">6th August 2012</span>)
+   </div>
+
+	<p>
+	  After a few weeks of intense work sharpening my <a href='http://www.r-project.org/'>R</a> skills, I figured it was about time to start pushing out some code. One of my favourite blog is the awesome <a href='http://spatialanalysis.co.uk/'>Spatial Analysis</a>, so why not starting with some maps?
+	<img src="http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1801.png" width="700">  
+	</p>
+	<p>
+	The maps displayed in this blog post are the combination of two distinct datasets:
+	<ul>
+	<li>The UK "Boundary Line" dataset, downloadable (after a tricky and tedious procedure) from <a href='https://www.ordnancesurvey.co.uk/opendatadownload/products.html'>this website</a></li>
+	<li>The Historic Census dataset downloadable from the <a href='http://data.london.gov.uk/datastore/package/historic-census-population'>London Datastore</a> website</li>
+	</ul>
+	<!--more-->
+	<p>
+	The first dataset (Boundary Line) contains the polygons (<i>shapelines</i>) defining British counties, districts, cities, ... I used <a href='http://ggplot2.org/'>ggplot2</a> to display the shapelines (mostly because I wanted to learnt it better). <br>
+	The second dataset contains the population in each London borough from 1801 to 2001. Merging the two dataset is immediate. <a href='https://github.com/fdiotalevi/london-population'>The full code is on Github</a>, and 36 lines of codes are all you need to load, merge and display the data.
+	</p>
+	<p> 
+	The different images show, as expected, how the population has progressively increased in number, and moved away from the central boroughs (Westminster, City of London in particular).
+	<br>
+	  <img src="http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1851.png" width="700">
+	  <img src="http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1901.png" width="700">
+	  <img src="http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1931.png" width="700">
+	<br>  
+	  After the second world war, there's the most noticeable increase in population of the external boroughs; Barnet, Croydon, Ealing are rapidly moving from average-low inhabited boroughs to some of the most populated; all the other external boroughs show similar increases.
+	  
+	  <img src="http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-1971.png" width="700">
+	  <br>  
+	  The last 30 years of the 20th century don't show a significant change in how the population is distributed.
+	  <img src="http://blog.diotalevi.com.s3.amazonaws.com/londonpop/year-2001.png" width="700">
+	</p>
+	<p>
+	From a visualization point of view, working with R allows to create maps easily, and with a few lines of code. There are definitely a few things I'd like to improve, like the <i>legend</i> (which sometimes shows numbers in scientific notation, sometimes not, without an apparent reason), and the placement of borough names which sometimes make them difficult to read.<br/>
+	Unfortunately the general lack of documentation on R and its packages makes this fine-tuning procedure very hard and time consuming, but it has been surprisingly easy and quick to obtain some decent maps.
+
+	</p>
+</article>
+
+        </div>
+
+      </div><!-- /.container -->
+
+
+    </body>
+</html>
